@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\TextFileDemo\TextFileDemo\bin\Debug\TextFileDemo.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\TextFileDemo\TextFileDemo\bin\Debug\TextFileDemo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\TextFileDemo\TextFileDemo\bin\Debug\TextFileDemo.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\TextFileDemo\TextFileDemo\obj\Debug\TextFileDemo.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\TextFileDemo\TextFileDemo\obj\Debug\TextFileDemo.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\TextFileDemo\TextFileDemo\obj\Debug\TextFileDemo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\TextFileDemo\TextFileDemo\obj\Debug\TextFileDemo.pdb

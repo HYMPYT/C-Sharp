@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\13.06.20\Reflection\Reflection\bin\Debug\Reflection.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\13.06.20\Reflection\Reflection\bin\Debug\Reflection.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\13.06.20\Reflection\Reflection\bin\Debug\Reflection.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\13.06.20\Reflection\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\13.06.20\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\13.06.20\Reflection\Reflection\obj\Debug\Reflection.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\13.06.20\Reflection\Reflection\obj\Debug\Reflection.pdb

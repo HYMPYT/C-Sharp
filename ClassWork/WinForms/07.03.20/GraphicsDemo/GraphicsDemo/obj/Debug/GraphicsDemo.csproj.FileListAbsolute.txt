@@ -1,0 +1,10 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\GraphicsDemo\GraphicsDemo\bin\Debug\GraphicsDemo.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\GraphicsDemo\GraphicsDemo\bin\Debug\GraphicsDemo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\GraphicsDemo\GraphicsDemo\bin\Debug\GraphicsDemo.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.pdb

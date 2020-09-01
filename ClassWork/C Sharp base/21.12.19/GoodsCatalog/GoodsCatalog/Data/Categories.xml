@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category id="1" name="Продукты питания" />
+  <category id="4" name="Одежда" />
+  <category id="5" name="Мебель" />
+  <category id="6" name="Бытовая техника" />
+  <category id="11" name="Компьютеры" />
+  <category id="12" name="Посуда" />
+</categories>

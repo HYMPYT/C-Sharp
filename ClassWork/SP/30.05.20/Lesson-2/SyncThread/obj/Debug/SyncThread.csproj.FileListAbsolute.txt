@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\SyncThread\bin\Debug\SyncThread.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\SyncThread\bin\Debug\SyncThread.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\SyncThread\bin\Debug\SyncThread.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\SyncThread\obj\Debug\SyncThread.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\SyncThread\obj\Debug\SyncThread.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\SyncThread\obj\Debug\SyncThread.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\SyncThread\obj\Debug\SyncThread.pdb

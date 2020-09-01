@@ -1,0 +1,38 @@
+﻿<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+              xmlns:local="clr-namespace:ReceptesBook.Pages"
+              ColumnWidth="400" FontSize="14" FontFamily="Georgia">
+    <Paragraph FontSize="24" TextAlignment="Center" FontWeight="Bold">
+        <Run Text="Вінегрет"/>
+    </Paragraph>
+    <Paragraph>
+        <Run Text="Продукти:"/>
+        <Floater Width="200" HorizontalAlignment="Right">
+            <BlockUIContainer>
+                <Image Source="../Images/Russian31.jpg"/>
+            </BlockUIContainer>
+        </Floater>
+    </Paragraph>
+    <List MarkerStyle="Box">
+        <ListItem>
+            <Paragraph>картопля відварна 4 шт.</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>буряк відварний 1 шт.</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>морква відварна 4-5 шт.</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>огірки солоні 2-3 шт.</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>цибуля ріпчаста 1 шт.</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>заправка для салатів 0.5-1 стакан</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>сіль за смаком</Paragraph>
+        </ListItem>
+    </List>
+</FlowDocument>

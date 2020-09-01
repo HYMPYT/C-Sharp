@@ -1,0 +1,37 @@
+Y:\stas\WPF\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont.exe
+Y:\stas\WPF\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont.pdb
+Y:\stas\WPF\wpf_animation\001_AnimationFont\bin\Debug\AnimationFont.exe
+Y:\stas\WPF\wpf_animation\001_AnimationFont\bin\Debug\AnimationFont.pdb
+Y:\stas\WPF\wpf_animation\001_AnimationFont\obj\Debug\001_AnimationFont.csprojResolveAssemblyReference.cache
+Y:\stas\WPF\wpf_animation\001_AnimationFont\obj\Debug\Window1.baml
+Y:\stas\WPF\wpf_animation\001_AnimationFont\obj\Debug\Window1.g.cs
+Y:\stas\WPF\wpf_animation\001_AnimationFont\obj\Debug\App.g.cs
+Y:\stas\WPF\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont_MarkupCompile.cache
+Y:\stas\WPF\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont.g.resources
+Y:\stas\WPF\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont.Properties.Resources.resources
+Y:\stas\WPF\wpf_animation\001_AnimationFont\obj\Debug\001_AnimationFont.csproj.GenerateResource.Cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\001_AnimationFont\bin\Debug\AnimationFont.exe
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\001_AnimationFont\bin\Debug\AnimationFont.pdb
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\001_AnimationFont\obj\Debug\Window1.baml
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\001_AnimationFont\obj\Debug\Window1.g.cs
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\001_AnimationFont\obj\Debug\App.g.cs
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont_MarkupCompile.cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont.g.resources
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont.Properties.Resources.resources
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\001_AnimationFont\obj\Debug\001_AnimationFont.csproj.GenerateResource.cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\001_AnimationFont\obj\Debug\001_AnimationFont.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont.exe
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\001_AnimationFont\bin\Debug\AnimationFont.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\001_AnimationFont\bin\Debug\AnimationFont.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\001_AnimationFont\obj\Debug\001_AnimationFont.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\001_AnimationFont\obj\Debug\Window1.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\001_AnimationFont\obj\Debug\Window1.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\001_AnimationFont\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\001_AnimationFont\obj\Debug\001_AnimationFont.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\001_AnimationFont\obj\Debug\001_AnimationFont.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\001_AnimationFont\obj\Debug\AnimationFont.pdb

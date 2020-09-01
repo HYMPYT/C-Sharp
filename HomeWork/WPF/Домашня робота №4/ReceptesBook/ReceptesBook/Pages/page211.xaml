@@ -1,0 +1,53 @@
+﻿<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+              xmlns:local="clr-namespace:ReceptesBook.Pages"
+              ColumnWidth="400" FontSize="14" FontFamily="Georgia">
+    <Paragraph FontSize="24" TextAlignment="Center" FontWeight="Bold">
+        <Run Text="Окрошка"/>
+    </Paragraph>
+    <Paragraph>
+        <Run Text="Продукти:"/>
+        <Floater Width="200" HorizontalAlignment="Right">
+            <BlockUIContainer>
+                <Image Source="../Images/Russian11.jpg"/>
+            </BlockUIContainer>
+        </Floater>
+    </Paragraph>
+    <List MarkerStyle="Box">
+        <ListItem>
+            <Paragraph>Огірок - 40 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Йогурт - 400 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Колбаса - 50 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Стебло селери - 20 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Перець болгарський - 30 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Картопля відварна - 50 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Редис - 15 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Укроп - 5 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Цибуля зелена - 5 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Яйце варене - 1 шт.</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Вода - 100 мл</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Сіль - за смаком</Paragraph>
+        </ListItem>
+    </List>
+</FlowDocument>

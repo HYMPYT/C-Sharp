@@ -1,0 +1,6 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq4\Linq4\bin\Debug\Linq4.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq4\Linq4\bin\Debug\Linq4.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq4\Linq4\bin\Debug\Linq4.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq4\Linq4\obj\Debug\Linq4.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq4\Linq4\obj\Debug\Linq4.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq4\Linq4\obj\Debug\Linq4.pdb

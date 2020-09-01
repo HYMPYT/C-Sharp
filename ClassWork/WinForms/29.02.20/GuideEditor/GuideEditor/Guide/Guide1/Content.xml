@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root name="Краткое руководство по WinForms">
+  <chapter name="Введение в WinForms">
+    <Paragraph name="История WinForms"/>
+      <Paragraph name="Сравнительный анализ"/>
+      <Paragraph name="Преимущества WinForms"/>
+  </chapter>
+  <chapter name="Базовые элементы управления">
+    <Paragraph name="Кнопочные элементы управления"/>
+    <Paragraph name="Текстовые элементы управления"/>
+    <Paragraph name="Списочные элементы управления"/>
+  </chapter>
+  <chapter name="Динамические элементы управления">
+  </chapter>
+  <chapter name="Специальные элементы управления">
+  </chapter>
+  <chapter name="Заключение">
+  </chapter>
+</root>

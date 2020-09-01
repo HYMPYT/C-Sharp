@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<goods>
+  <product id="1" name="Батон студенческий" producer="Roshen" price="12" cid="1"/>
+  <product id="2" name="Колбаса молочная" producer="Roshen" price="100" cid="1"/>
+  <product id="3" name="Молоко Веселый фемер" producer="Roshen" price="24" cid="1"/>
+  <product id="4" name="ASUS" producer="IBM" price="10900" cid="5"/>
+  <product id="5" name="Apple" producer="Apple" price="12300" cid="5"/>
+  <product id="6" name="HP" producer="IBM" price="11000" cid="5"/>
+  <product id="7" name="C++  справочник" producer="Наука" price="50" cid="11"/>
+  <product id="8" name="C# справочник" producer="Наука" price="75" cid="11"/>
+  <product id="9" name="SQL справочник" producer="Наука" price="45" cid="11"/>
+</goods>

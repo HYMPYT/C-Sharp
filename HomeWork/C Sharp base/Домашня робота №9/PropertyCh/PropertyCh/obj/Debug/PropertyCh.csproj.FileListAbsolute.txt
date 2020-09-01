@@ -1,0 +1,7 @@
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №9\PropertyCh\PropertyCh\bin\Debug\PropertyCh.exe.config
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №9\PropertyCh\PropertyCh\bin\Debug\PropertyCh.exe
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №9\PropertyCh\PropertyCh\bin\Debug\PropertyCh.pdb
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №9\PropertyCh\PropertyCh\obj\Debug\PropertyCh.csprojAssemblyReference.cache
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №9\PropertyCh\PropertyCh\obj\Debug\PropertyCh.csproj.CoreCompileInputs.cache
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №9\PropertyCh\PropertyCh\obj\Debug\PropertyCh.exe
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №9\PropertyCh\PropertyCh\obj\Debug\PropertyCh.pdb

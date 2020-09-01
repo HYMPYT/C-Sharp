@@ -1,0 +1,14 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\bin\Debug\Wpf.Styles.Inheritance.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\bin\Debug\Wpf.Styles.Inheritance.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\bin\Debug\Wpf.Styles.Inheritance.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\obj\Debug\Wpf.Styles.Inheritance.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\obj\Debug\Wpf.Styles.Inheritance_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\obj\Debug\Wpf.Styles.Inheritance.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\obj\Debug\Wpf.Styles.Inheritance.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\obj\Debug\Wpf.Styles.Inheritance.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\obj\Debug\Wpf.Styles.Inheritance.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\obj\Debug\Wpf.Styles.Inheritance.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex10-Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\Wpf.Styles.Inheritance\obj\Debug\Wpf.Styles.Inheritance.pdb

@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq3\Linq3\bin\Debug\Linq3.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq3\Linq3\bin\Debug\Linq3.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq3\Linq3\bin\Debug\Linq3.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq3\Linq3\obj\Debug\Linq3.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq3\Linq3\obj\Debug\Linq3.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq3\Linq3\obj\Debug\Linq3.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq3\Linq3\obj\Debug\Linq3.csprojAssemblyReference.cache

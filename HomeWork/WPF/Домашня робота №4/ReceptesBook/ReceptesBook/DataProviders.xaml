@@ -1,0 +1,6 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:ReceptesBook">
+    <XmlDataProvider x:Key="Provider1" Source="Context/Ukrainian.xml" XPath="node"/>
+    <XmlDataProvider x:Key="Provider2" Source="Context/Russian.xml" XPath="node"/>
+</ResourceDictionary>

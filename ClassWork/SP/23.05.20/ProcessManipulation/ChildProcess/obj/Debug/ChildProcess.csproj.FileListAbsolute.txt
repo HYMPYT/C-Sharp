@@ -1,0 +1,9 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ChildProcess\bin\Debug\ChildProcess.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ChildProcess\bin\Debug\ChildProcess.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ChildProcess\obj\Debug\ChildProcess.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ChildProcess\obj\Debug\ChildProcess.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ChildProcess\obj\Debug\ChildProcess.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ChildProcess\obj\Debug\ChildProcess.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ChildProcess\obj\Debug\ChildProcess.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ChildProcess\obj\Debug\ChildProcess.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ChildProcess\obj\Debug\ChildProcess.pdb

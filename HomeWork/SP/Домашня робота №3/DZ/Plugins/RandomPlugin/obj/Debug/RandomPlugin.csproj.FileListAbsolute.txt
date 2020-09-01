@@ -1,0 +1,6 @@
+c:\Users\student\documents\visual studio 2015\Projects\Plugins\RandomPlugin\bin\Debug\RandomPlugin.dll
+c:\Users\student\documents\visual studio 2015\Projects\Plugins\RandomPlugin\bin\Debug\RandomPlugin.pdb
+c:\Users\student\documents\visual studio 2015\Projects\Plugins\RandomPlugin\bin\Debug\Interface.dll
+c:\Users\student\documents\visual studio 2015\Projects\Plugins\RandomPlugin\bin\Debug\Interface.pdb
+c:\Users\student\documents\visual studio 2015\Projects\Plugins\RandomPlugin\obj\Debug\RandomPlugin.dll
+c:\Users\student\documents\visual studio 2015\Projects\Plugins\RandomPlugin\obj\Debug\RandomPlugin.pdb

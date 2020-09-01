@@ -1,0 +1,10 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\DiagramEditor\DiagramEditor\bin\Debug\DiagramEditor.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\DiagramEditor\DiagramEditor\bin\Debug\DiagramEditor.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\DiagramEditor\DiagramEditor\bin\Debug\DiagramEditor.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\07.03.20\DiagramEditor\DiagramEditor\obj\Debug\DiagramEditor.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\AnimatedClock\AnimatedClock\bin\Debug\AnimatedClock.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\AnimatedClock\AnimatedClock\bin\Debug\AnimatedClock.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\AnimatedClock\AnimatedClock\bin\Debug\AnimatedClock.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\AnimatedClock\AnimatedClock\obj\Debug\AnimatedClock.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\AnimatedClock\AnimatedClock\obj\Debug\AnimatedClock.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\AnimatedClock\AnimatedClock\obj\Debug\AnimatedClock.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\AnimatedClock\AnimatedClock\obj\Debug\AnimatedClock.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\AnimatedClock\AnimatedClock\obj\Debug\AnimatedClock.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\AnimatedClock\AnimatedClock\obj\Debug\AnimatedClock.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\AnimatedClock\AnimatedClock\obj\Debug\AnimatedClock.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\AnimatedClock\AnimatedClock\obj\Debug\AnimatedClock.SetAlarmForm.resources

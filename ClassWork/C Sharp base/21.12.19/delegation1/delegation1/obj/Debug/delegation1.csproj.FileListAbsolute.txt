@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\delegation1\delegation1\bin\Debug\delegation1.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\delegation1\delegation1\bin\Debug\delegation1.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\delegation1\delegation1\bin\Debug\delegation1.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\delegation1\delegation1\obj\Debug\delegation1.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\delegation1\delegation1\obj\Debug\delegation1.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\delegation1\delegation1\obj\Debug\delegation1.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\delegation1\delegation1\obj\Debug\delegation1.pdb

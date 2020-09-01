@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq2\Linq2\bin\Debug\Linq2.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq2\Linq2\bin\Debug\Linq2.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq2\Linq2\bin\Debug\Linq2.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq2\Linq2\obj\Debug\Linq2.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq2\Linq2\obj\Debug\Linq2.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq2\Linq2\obj\Debug\Linq2.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\ADO.NET C#\23.05.20\Linq2\Linq2\obj\Debug\Linq2.pdb

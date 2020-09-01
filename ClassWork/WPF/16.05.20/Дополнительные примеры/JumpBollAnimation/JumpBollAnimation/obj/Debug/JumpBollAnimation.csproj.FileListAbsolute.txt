@@ -1,0 +1,15 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\bin\Debug\JumpBollAnimation.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\bin\Debug\JumpBollAnimation.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\bin\Debug\JumpBollAnimation.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\obj\Debug\JumpBollAnimation.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\obj\Debug\JumpBollAnimation_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\obj\Debug\JumpBollAnimation_MarkupCompile.lref
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\obj\Debug\JumpBollAnimation.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\obj\Debug\JumpBollAnimation.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\obj\Debug\JumpBollAnimation.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\obj\Debug\JumpBollAnimation.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\obj\Debug\JumpBollAnimation.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\JumpBollAnimation\JumpBollAnimation\obj\Debug\JumpBollAnimation.pdb

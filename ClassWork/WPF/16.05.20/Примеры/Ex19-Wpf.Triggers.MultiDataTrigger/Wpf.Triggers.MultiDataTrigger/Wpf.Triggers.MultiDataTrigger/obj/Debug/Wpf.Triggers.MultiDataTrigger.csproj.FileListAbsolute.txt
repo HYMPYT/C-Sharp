@@ -1,0 +1,14 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\bin\Debug\Wpf.Triggers.MultiDataTrigger.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\bin\Debug\Wpf.Triggers.MultiDataTrigger.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\bin\Debug\Wpf.Triggers.MultiDataTrigger.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\obj\Debug\Wpf.Triggers.MultiDataTrigger.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\obj\Debug\Wpf.Triggers.MultiDataTrigger_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\obj\Debug\Wpf.Triggers.MultiDataTrigger.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\obj\Debug\Wpf.Triggers.MultiDataTrigger.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\obj\Debug\Wpf.Triggers.MultiDataTrigger.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\obj\Debug\Wpf.Triggers.MultiDataTrigger.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\obj\Debug\Wpf.Triggers.MultiDataTrigger.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex19-Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\Wpf.Triggers.MultiDataTrigger\obj\Debug\Wpf.Triggers.MultiDataTrigger.pdb

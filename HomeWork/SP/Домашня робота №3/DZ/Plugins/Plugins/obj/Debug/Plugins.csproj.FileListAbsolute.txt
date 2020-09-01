@@ -1,0 +1,24 @@
+c:\users\student\documents\visual studio 2015\Projects\Plugins\Plugins\bin\Debug\Plugins.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Plugins\Plugins\obj\Debug\Plugins.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Plugins\Plugins\obj\Debug\Plugins.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\Plugins\Plugins\obj\Debug\Plugins.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\Plugins\Plugins\obj\Debug\Plugins.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\Plugins\Plugins\bin\Debug\Plugins.exe
+c:\users\student\documents\visual studio 2015\Projects\Plugins\Plugins\bin\Debug\Plugins.pdb
+c:\users\student\documents\visual studio 2015\Projects\Plugins\Plugins\bin\Debug\Interface.dll
+c:\users\student\documents\visual studio 2015\Projects\Plugins\Plugins\bin\Debug\Interface.pdb
+c:\users\student\documents\visual studio 2015\Projects\Plugins\Plugins\obj\Debug\Plugins.exe
+c:\users\student\documents\visual studio 2015\Projects\Plugins\Plugins\obj\Debug\Plugins.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота SP\Домашня робота №3\DZ\Plugins\Plugins\bin\Debug\Plugins.exe.config
+C:\Users\Evgeniy\Desktop\Домашня робота SP\Домашня робота №3\DZ\Plugins\Plugins\bin\Debug\Plugins.exe
+C:\Users\Evgeniy\Desktop\Домашня робота SP\Домашня робота №3\DZ\Plugins\Plugins\bin\Debug\Plugins.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота SP\Домашня робота №3\DZ\Plugins\Plugins\bin\Debug\Interface.dll
+C:\Users\Evgeniy\Desktop\Домашня робота SP\Домашня робота №3\DZ\Plugins\Plugins\bin\Debug\Interface.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота SP\Домашня робота №3\DZ\Plugins\Plugins\obj\Debug\Plugins.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\Домашня робота SP\Домашня робота №3\DZ\Plugins\Plugins\obj\Debug\Plugins.Form1.resources
+C:\Users\Evgeniy\Desktop\Домашня робота SP\Домашня робота №3\DZ\Plugins\Plugins\obj\Debug\Plugins.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\Домашня робота SP\Домашня робота №3\DZ\Plugins\Plugins\obj\Debug\Plugins.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Домашня робота SP\Домашня робота №3\DZ\Plugins\Plugins\obj\Debug\Plugins.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\Домашня робота SP\Домашня робота №3\DZ\Plugins\Plugins\obj\Debug\Plugins.csproj.CopyComplete
+C:\Users\Evgeniy\Desktop\Домашня робота SP\Домашня робота №3\DZ\Plugins\Plugins\obj\Debug\Plugins.exe
+C:\Users\Evgeniy\Desktop\Домашня робота SP\Домашня робота №3\DZ\Plugins\Plugins\obj\Debug\Plugins.pdb

@@ -1,0 +1,9 @@
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\MyBestMarvelLib\bin\Debug\MyBestMarvelLib.dll
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\MyBestMarvelLib\bin\Debug\MyBestMarvelLib.pdb
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\MyBestMarvelLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\MyBestMarvelLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\MyBestMarvelLib\obj\Debug\MyBestMarvelLib.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\MyBestMarvelLib\obj\Debug\MyBestMarvelLib.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\MyBestMarvelLib\obj\Debug\MyBestMarvelLib.csproj.CopyComplete
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\MyBestMarvelLib\obj\Debug\MyBestMarvelLib.dll
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\MyBestMarvelLib\obj\Debug\MyBestMarvelLib.pdb

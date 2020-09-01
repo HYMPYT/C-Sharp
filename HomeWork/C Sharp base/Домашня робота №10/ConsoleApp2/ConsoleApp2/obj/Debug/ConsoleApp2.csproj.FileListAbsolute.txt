@@ -1,0 +1,7 @@
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №10\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №10\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №10\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №10\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №10\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №10\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №10\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

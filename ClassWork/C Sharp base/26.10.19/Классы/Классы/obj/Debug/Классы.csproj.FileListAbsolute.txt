@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\26.10.19\Классы\Классы\bin\Debug\Классы.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\26.10.19\Классы\Классы\bin\Debug\Классы.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\26.10.19\Классы\Классы\bin\Debug\Классы.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\26.10.19\Классы\Классы\obj\Debug\Классы.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\26.10.19\Классы\Классы\obj\Debug\Классы.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\26.10.19\Классы\Классы\obj\Debug\Классы.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\26.10.19\Классы\Классы\obj\Debug\Классы.pdb

@@ -1,0 +1,71 @@
+﻿<Window x:Class="DaenOffice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DaenOffice"
+        mc:Ignorable="d"
+        Title="DeanOfiice" Height="650" Width="900" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="1.4*"/>
+            <ColumnDefinition Width="1.6*"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox Header="Факультеты" Grid.Row="0" Grid.Column="0">
+            <StackPanel>
+                <ComboBox x:Name="FList" SelectionChanged="FList_SelectionChanged"/>
+                <TextBox x:Name="FName" Height="25"/>
+                <WrapPanel HorizontalAlignment="Center">
+                    <Button x:Name="AddBtn" Content="Добавить" Click="FAddBtn_Click"/>
+                    <Button x:Name="DelBtn" Content="Удалить" Click="FDelBtn_Click"/>
+                </WrapPanel>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Группы" Grid.Row="1" Grid.Column="0">
+            <DockPanel>
+                <WrapPanel HorizontalAlignment="Center" DockPanel.Dock="Bottom">
+                    <Button x:Name="GAddBtn" Content="Добавить"/>
+                    <Button x:Name="GDelBtn" Content="Удалить"/>
+                </WrapPanel>
+                <TextBox x:Name="GName" DockPanel.Dock="Bottom" Height="25"/>
+                <ListBox x:Name="GList" SelectionChanged="GList_SelectionChanged"/>
+            </DockPanel>
+        </GroupBox>
+        <GroupBox Header="Студенты" Grid.Row="0" Grid.Column="1" Grid.RowSpan="2">
+            <ListBox x:Name="SList" SelectionChanged="SList_SelectionChanged"/>
+        </GroupBox>
+        <GroupBox Header="Персональная информация" Grid.Row="0" Grid.Column="3" Grid.RowSpan="2">
+            <DockPanel>
+                <Label Content="Фамилия, имя, отчество:" DockPanel.Dock="Top"/>
+                <TextBox x:Name="SName" DockPanel.Dock="Top" Height="25"/>
+
+                <Label Content="Адрес:" DockPanel.Dock="Top"/>
+                <TextBox x:Name="SAddr" DockPanel.Dock="Top" Height="25"/>
+
+                <Label Content="Телефон:" DockPanel.Dock="Top"/>
+                <TextBox x:Name="SPhone" DockPanel.Dock="Top" Height="25"/>
+
+                <Label Content="Контакты:" DockPanel.Dock="Top"/>
+                <TextBox x:Name="SContact" DockPanel.Dock="Top" Height="25"/>
+
+                <Label Content="Успеваемость:" DockPanel.Dock="Top"/>
+                <TextBox x:Name="SGrades" DockPanel.Dock="Top" Height="25"/>
+
+                <WrapPanel HorizontalAlignment="Center" DockPanel.Dock="Bottom">
+                    <Button x:Name="SAddBtn" Content="Добавить" Width="150"/>
+                    <Button x:Name="SDelBtn" Content="Удалить" Width="150"/>
+                    <Button x:Name="SEditBtn" Content="Редактировать" Width="150"/>
+                    <Button x:Name="SCleanBtn" Content="Очистить" Width="150"/>
+                </WrapPanel>
+                
+                <Label Content="Характеристика:" DockPanel.Dock="Top"/>
+                <TextBox x:Name="SInfo"/>
+            </DockPanel>
+        </GroupBox>
+    </Grid>
+</Window>

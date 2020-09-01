@@ -1,0 +1,17 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\bin\Debug\WPF.Themes.Demo.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\bin\Debug\WPF.Themes.Demo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\bin\Debug\WPF.Themes.Demo.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\bin\Debug\WPF.Themes.dll
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\bin\Debug\WPF.Themes.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\obj\Debug\Window1.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\obj\Debug\Window1.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.csproj.CopyComplete
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Теми\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.pdb

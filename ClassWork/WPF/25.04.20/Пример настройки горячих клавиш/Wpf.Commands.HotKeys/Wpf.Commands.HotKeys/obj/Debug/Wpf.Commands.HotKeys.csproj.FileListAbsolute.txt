@@ -1,0 +1,27 @@
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\bin\Debug\Wpf.Commands.HotKeys.exe.config
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\bin\Debug\Wpf.Commands.HotKeys.exe
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\bin\Debug\Wpf.Commands.HotKeys.pdb
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\MainWindow.baml
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\App.g.cs
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys_MarkupCompile.cache
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys.g.resources
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys.Properties.Resources.resources
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys.csproj.GenerateResource.cache
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys.exe
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\bin\Debug\Wpf.Commands.HotKeys.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\bin\Debug\Wpf.Commands.HotKeys.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\bin\Debug\Wpf.Commands.HotKeys.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример настройки горячих клавиш\Wpf.Commands.HotKeys\Wpf.Commands.HotKeys\obj\Debug\Wpf.Commands.HotKeys.pdb

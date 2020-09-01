@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\колекции\колекции\bin\Debug\колекции.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\колекции\колекции\bin\Debug\колекции.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\колекции\колекции\bin\Debug\колекции.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\колекции\колекции\obj\Debug\колекции.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\колекции\колекции\obj\Debug\колекции.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\колекции\колекции\obj\Debug\колекции.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\колекции\колекции\obj\Debug\колекции.pdb

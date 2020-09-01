@@ -1,0 +1,10 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\ColorMixer\ColorMixer\bin\Debug\ColorMixer.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\ColorMixer\ColorMixer\obj\Debug\ColorMixer.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\ColorMixer\ColorMixer\obj\Debug\ColorMixer.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\ColorMixer\ColorMixer\obj\Debug\ColorMixer.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\ColorMixer\ColorMixer\obj\Debug\ColorMixer.pdb

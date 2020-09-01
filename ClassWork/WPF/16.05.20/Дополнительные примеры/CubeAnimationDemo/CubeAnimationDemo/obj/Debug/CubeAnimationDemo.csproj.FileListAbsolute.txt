@@ -1,0 +1,15 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\bin\Debug\CubeAnimationDemo.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\bin\Debug\CubeAnimationDemo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\bin\Debug\CubeAnimationDemo.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\obj\Debug\CubeAnimationDemo.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\obj\Debug\CubeAnimationDemo_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\obj\Debug\CubeAnimationDemo_MarkupCompile.lref
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\obj\Debug\CubeAnimationDemo.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\obj\Debug\CubeAnimationDemo.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\obj\Debug\CubeAnimationDemo.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\obj\Debug\CubeAnimationDemo.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\obj\Debug\CubeAnimationDemo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\CubeAnimationDemo\CubeAnimationDemo\obj\Debug\CubeAnimationDemo.pdb

@@ -1,0 +1,10 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\NP\04.07.20\MarvelWebApi\MarvelWebApi\bin\Debug\MarvelWebApi.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\NP\04.07.20\MarvelWebApi\MarvelWebApi\bin\Debug\MarvelWebApi.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\NP\04.07.20\MarvelWebApi\MarvelWebApi\bin\Debug\MarvelWebApi.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\NP\04.07.20\MarvelWebApi\MarvelWebApi\obj\Debug\MarvelWebApi.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\NP\04.07.20\MarvelWebApi\MarvelWebApi\obj\Debug\MarvelWebApi.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\NP\04.07.20\MarvelWebApi\MarvelWebApi\obj\Debug\MarvelWebApi.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\NP\04.07.20\MarvelWebApi\MarvelWebApi\obj\Debug\MarvelWebApi.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\NP\04.07.20\MarvelWebApi\MarvelWebApi\bin\Debug\Newtonsoft.Json.dll
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\NP\04.07.20\MarvelWebApi\MarvelWebApi\bin\Debug\Newtonsoft.Json.xml
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\NP\04.07.20\MarvelWebApi\MarvelWebApi\obj\Debug\MarvelWebApi.csproj.CopyComplete

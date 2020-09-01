@@ -1,0 +1,100 @@
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\bin\Debug\DeanOffice.exe.config
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\bin\Debug\DeanOffice.exe
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\bin\Debug\DeanOffice.pdb
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csprojAssemblyReference.cache
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\App.g.cs
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\DeanOffice_MarkupCompile.cache
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\DeanOffice_MarkupCompile.lref
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\MainWindow.baml
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\DeanOffice.g.resources
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\DeanOffice.Properties.Resources.resources
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csproj.GenerateResource.cache
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\DeanOffice.exe
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\DeanOffice.pdb
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\App.baml
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\Dictionary1.baml
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\bin\Debug\Database1.mdf
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\bin\Debug\Database1_log.ldf
+C:\Users\Vladimir and Olga\Downloads\DeanOffice\DeanOffice\obj\Debug\DeanOffice_Content.g.cs
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\bin\Debug\Database1.mdf
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\bin\Debug\Database1_log.ldf
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\bin\Debug\DeanOffice.exe.config
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\bin\Debug\DeanOffice.exe
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\bin\Debug\DeanOffice.pdb
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csprojAssemblyReference.cache
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\MainWindow.g.cs
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\App.g.cs
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\DeanOffice_Content.g.cs
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\DeanOffice_MarkupCompile.cache
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\DeanOffice_MarkupCompile.lref
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\App.baml
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\Dictionary1.baml
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\MainWindow.baml
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\DeanOffice.g.resources
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\DeanOffice.Properties.Resources.resources
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csproj.GenerateResource.cache
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csproj.CoreCompileInputs.cache
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\DeanOffice.exe
+E:\Temp\Подготовки\WPF-Source\DeanOffice\DeanOffice\obj\Debug\DeanOffice.pdb
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\bin\Debug\Database1.mdf
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\bin\Debug\Database1_log.ldf
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\bin\Debug\DeanOffice.exe.config
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\bin\Debug\DeanOffice.exe
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\bin\Debug\DeanOffice.pdb
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csprojAssemblyReference.cache
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\MainWindow.g.cs
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\App.g.cs
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice_Content.g.cs
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice_MarkupCompile.cache
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice_MarkupCompile.lref
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\App.baml
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\Dictionary1.baml
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\MainWindow.baml
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.g.resources
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.Properties.Resources.resources
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csproj.GenerateResource.cache
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csproj.CoreCompileInputs.cache
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.exe
+E:\Temp\Домашки\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\bin\Debug\Database1.mdf
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\bin\Debug\Database1_log.ldf
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\bin\Debug\DeanOffice.exe.config
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\bin\Debug\DeanOffice.exe
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\bin\Debug\DeanOffice.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\MainWindow.g.cs
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\App.g.cs
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice_Content.g.cs
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice_MarkupCompile.cache
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice_MarkupCompile.lref
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\App.baml
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\Dictionary1.baml
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\MainWindow.baml
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.g.resources
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.exe
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\WPF_ADO.NET-0404\DeanOffice\DeanOffice\obj\Debug\DeanOffice.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\bin\Debug\Database1.mdf
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\bin\Debug\Database1_log.ldf
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\bin\Debug\DeanOffice.exe.config
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\bin\Debug\DeanOffice.exe
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\bin\Debug\DeanOffice.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\MainWindow.g.cs
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\App.g.cs
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\DeanOffice_Content.g.cs
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\DeanOffice_MarkupCompile.cache
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\DeanOffice_MarkupCompile.lref
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\App.baml
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\Dictionary1.baml
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\MainWindow.baml
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\DeanOffice.g.resources
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\DeanOffice.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\DeanOffice.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\DeanOffice.exe
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №2\DeanOffice\DeanOffice\obj\Debug\DeanOffice.pdb

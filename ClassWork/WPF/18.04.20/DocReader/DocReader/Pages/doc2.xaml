@@ -1,0 +1,11 @@
+﻿<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+              xmlns:local="clr-namespace:DocReader.Pages"
+              ColumnWidth="400" FontSize="14" FontFamily="Georgia">
+    <Paragraph FontSize="48" Foreground="DarkCyan" TextAlignment="Center">
+        <LineBreak/>
+        <Run Text="Admin Guide"/>
+    </Paragraph>
+    <Paragraph FontSize="36" Foreground="DarkBlue" TextAlignment="Center">
+        <Run Text="Руководство админа"/>
+    </Paragraph>
+</FlowDocument>

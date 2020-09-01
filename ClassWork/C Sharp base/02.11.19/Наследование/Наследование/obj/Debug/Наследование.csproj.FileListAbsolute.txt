@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Наследование\Наследование\bin\Debug\Наследование.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Наследование\Наследование\bin\Debug\Наследование.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Наследование\Наследование\bin\Debug\Наследование.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Наследование\Наследование\obj\Debug\Наследование.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Наследование\Наследование\obj\Debug\Наследование.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Наследование\Наследование\obj\Debug\Наследование.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Наследование\Наследование\obj\Debug\Наследование.pdb

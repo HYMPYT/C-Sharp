@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contacts>
+  <contact person="Вася Пупкин" phone="111-11-11" email="vasya@i.ua" />
+  <contact person="Коля Пупкин" phone="222-22-22" email="kolya@i.ua" />
+  <contact person="Слава Славин" phone="444-44-44" email="slava@ukr.net" />
+</contacts>

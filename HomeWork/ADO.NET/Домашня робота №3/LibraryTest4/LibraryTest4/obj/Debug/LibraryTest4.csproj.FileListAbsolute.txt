@@ -1,0 +1,14 @@
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\bin\Debug\LivraryDB.mdf
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\bin\Debug\LivraryDB_log.ldf
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\bin\Debug\LibraryTest4.exe.config
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\bin\Debug\LibraryTest4.exe
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\bin\Debug\LibraryTest4.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\bin\Debug\MaterialSkin.dll
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\obj\Debug\LibraryTest4.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\obj\Debug\LibraryTest4.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\obj\Debug\LibraryTest4.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\obj\Debug\LibraryTest4.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\obj\Debug\LibraryTest4.csproj.CopyComplete
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\obj\Debug\LibraryTest4.exe
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\obj\Debug\LibraryTest4.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №3\LibraryTest4\LibraryTest4\obj\Debug\LibraryTest4.MainForm.resources

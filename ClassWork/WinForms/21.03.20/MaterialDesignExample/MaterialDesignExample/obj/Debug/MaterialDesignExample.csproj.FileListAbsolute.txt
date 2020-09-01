@@ -1,0 +1,12 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MaterialDesignExample\MaterialDesignExample\bin\Debug\MaterialDesignExample.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MaterialDesignExample\MaterialDesignExample\bin\Debug\MaterialDesignExample.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MaterialDesignExample\MaterialDesignExample\bin\Debug\MaterialDesignExample.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MaterialDesignExample\MaterialDesignExample\bin\Debug\MaterialSkin.dll
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MaterialDesignExample\MaterialDesignExample\obj\Debug\MaterialDesignExample.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MaterialDesignExample\MaterialDesignExample\obj\Debug\MaterialDesignExample.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MaterialDesignExample\MaterialDesignExample\obj\Debug\MaterialDesignExample.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MaterialDesignExample\MaterialDesignExample\obj\Debug\MaterialDesignExample.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MaterialDesignExample\MaterialDesignExample\obj\Debug\MaterialDesignExample.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MaterialDesignExample\MaterialDesignExample\obj\Debug\MaterialDesignExample.csproj.CopyComplete
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MaterialDesignExample\MaterialDesignExample\obj\Debug\MaterialDesignExample.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MaterialDesignExample\MaterialDesignExample\obj\Debug\MaterialDesignExample.pdb

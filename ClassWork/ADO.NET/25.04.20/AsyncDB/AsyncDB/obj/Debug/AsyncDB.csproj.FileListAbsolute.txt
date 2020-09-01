@@ -1,0 +1,12 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\25.04.20\AsyncDB\AsyncDB\bin\Debug\Database1.mdf
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\25.04.20\AsyncDB\AsyncDB\bin\Debug\Database1_log.ldf
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\25.04.20\AsyncDB\AsyncDB\bin\Debug\AsyncDB.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\25.04.20\AsyncDB\AsyncDB\bin\Debug\AsyncDB.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\25.04.20\AsyncDB\AsyncDB\bin\Debug\AsyncDB.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\25.04.20\AsyncDB\AsyncDB\obj\Debug\AsyncDB.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\25.04.20\AsyncDB\AsyncDB\obj\Debug\AsyncDB.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\25.04.20\AsyncDB\AsyncDB\obj\Debug\AsyncDB.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\25.04.20\AsyncDB\AsyncDB\obj\Debug\AsyncDB.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\25.04.20\AsyncDB\AsyncDB\obj\Debug\AsyncDB.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\25.04.20\AsyncDB\AsyncDB\obj\Debug\AsyncDB.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\25.04.20\AsyncDB\AsyncDB\obj\Debug\AsyncDB.pdb

@@ -1,0 +1,9 @@
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_5\WindowsFormsApp1_5\bin\Debug\WindowsFormsApp1_5.exe.config
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_5\WindowsFormsApp1_5\bin\Debug\WindowsFormsApp1_5.exe
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_5\WindowsFormsApp1_5\bin\Debug\WindowsFormsApp1_5.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_5\WindowsFormsApp1_5\obj\Debug\WindowsFormsApp1_5.Form1.resources
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_5\WindowsFormsApp1_5\obj\Debug\WindowsFormsApp1_5.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_5\WindowsFormsApp1_5\obj\Debug\WindowsFormsApp1_5.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_5\WindowsFormsApp1_5\obj\Debug\WindowsFormsApp1_5.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_5\WindowsFormsApp1_5\obj\Debug\WindowsFormsApp1_5.exe
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_5\WindowsFormsApp1_5\obj\Debug\WindowsFormsApp1_5.pdb

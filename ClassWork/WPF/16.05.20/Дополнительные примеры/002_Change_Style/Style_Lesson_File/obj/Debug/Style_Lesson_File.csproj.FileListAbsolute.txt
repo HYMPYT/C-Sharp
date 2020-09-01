@@ -1,0 +1,171 @@
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\bin\Debug\Style_Lesson_File.exe
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\bin\Debug\Style_Lesson_File.pdb
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\obj\Debug\Dictionary1.baml
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\obj\Debug\Window1.baml
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\obj\Debug\Window1.g.cs
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\obj\Debug\App.g.cs
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File_MarkupCompile.cache
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.g.resources
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.Properties.Resources.resources
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.csproj.GenerateResource.Cache
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb
+E:\Work\STEP\MyLessons\TRASH22222\Style_Lesson_File\Style_Lesson_File\obj\Debug\App.baml
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\bin\Debug\Style_Lesson_File.exe
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\bin\Debug\Style_Lesson_File.pdb
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\Dictionary1.baml
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\Window1.baml
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\App.baml
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\Window1.g.cs
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\App.g.cs
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File_MarkupCompile.cache
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.g.resources
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.Properties.Resources.resources
+E:\Work\STEP\MyLessons\TRASH22222\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.csproj.GenerateResource.Cache
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\004_Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\bin\Debug\Style_Lesson_File.exe
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\bin\Debug\Style_Lesson_File.pdb
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\obj\Debug\ResolveAssemblyReference.cache
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\obj\Debug\Dictionary1.baml
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\obj\Debug\Dictionary2.baml
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\obj\Debug\Window1.baml
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\obj\Debug\App.baml
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\obj\Debug\Window1.g.cs
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\obj\Debug\App.g.cs
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\obj\Debug\Style_Lesson_File_MarkupCompile.cache
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\obj\Debug\Style_Lesson_File.g.resources
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\obj\Debug\Style_Lesson_File.Properties.Resources.resources
+D:\Projekts\9PA7\WPF\!!!Style_Lessons\Style_Lesson_File\obj\Debug\Style_Lesson_File.csproj.GenerateResource.Cache
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\bin\Debug\Style_Lesson_File.exe
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\bin\Debug\Style_Lesson_File.pdb
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\obj\Debug\ResolveAssemblyReference.cache
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\obj\Debug\Dictionary1.baml
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\obj\Debug\Dictionary2.baml
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\obj\Debug\Window1.baml
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\obj\Debug\App.baml
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\obj\Debug\Window1.g.cs
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\obj\Debug\App.g.cs
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File_MarkupCompile.cache
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.g.resources
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.Properties.Resources.resources
+D:\Projekts\9PA7\WPF\Style_Lesson_File\Style_Lesson_File\obj\Debug\Style_Lesson_File.csproj.GenerateResource.Cache
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.exe
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.pdb
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\ResolveAssemblyReference.cache
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Dictionary1.baml
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Dictionary2.baml
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Window1.baml
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Window1.g.cs
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\App.g.cs
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File_MarkupCompile.cache
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.g.resources
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.Properties.Resources.resources
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csproj.GenerateResource.Cache
+D:\Projekts\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Dictionary3.baml
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.exe
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.pdb
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Dictionary1.baml
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Dictionary2.baml
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Dictionary3.baml
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Window1.baml
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Window1.g.cs
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\App.g.cs
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File_MarkupCompile.cache
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.g.resources
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.Properties.Resources.resources
+D:\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csproj.GenerateResource.Cache
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.exe
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.pdb
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csprojResolveAssemblyReference.cache
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Dictionary1.baml
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Dictionary2.baml
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Dictionary3.baml
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Window1.baml
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Window1.g.cs
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\App.g.cs
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File_MarkupCompile.cache
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.g.resources
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.Properties.Resources.resources
+W:\Old variant\Projects\IT Step\9PA7\WPF\Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csproj.GenerateResource.Cache
+F:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+F:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb
+H:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+H:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb
+G:\WPF\_NW_Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.exe
+G:\WPF\_NW_Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.pdb
+G:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csprojResolveAssemblyReference.cache
+G:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Dictionary1.baml
+G:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Dictionary2.baml
+G:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Dictionary3.baml
+G:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Window1.baml
+G:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Window1.g.cs
+G:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\App.g.cs
+G:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File_MarkupCompile.cache
+G:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.g.resources
+G:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.Properties.Resources.resources
+G:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csproj.GenerateResource.Cache
+G:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+G:\WPF\_NW_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.exe
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.pdb
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csprojResolveAssemblyReference.cache
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Dictionary1.baml
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Dictionary2.baml
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Dictionary3.baml
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Window1.baml
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Window1.g.cs
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\App.g.cs
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File_MarkupCompile.cache
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.g.resources
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.Properties.Resources.resources
+Y:\stas\WPF\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csproj.GenerateResource.Cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.exe
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.pdb
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csprojAssemblyReference.cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Dictionary1.baml
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Dictionary2.baml
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Dictionary3.baml
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Window1.baml
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Window1.g.cs
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\App.g.cs
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File_MarkupCompile.cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.g.resources
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.Properties.Resources.resources
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csproj.GenerateResource.cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\Styles\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\bin\Debug\Style_Lesson_File.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\Dictionary1.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\Dictionary2.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\Dictionary3.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\Window1.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\Window1.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\002_Change_Style\Style_Lesson_File\obj\Debug\Style_Lesson_File.pdb

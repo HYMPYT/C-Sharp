@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<node name="doc1" title="UserGuide" icon="Images/iconfinder_x-office-address-book_118894.png">
+  <node name="chapter11" title="Chapter1" icon="Images\iconfinder_address-book-alt_299047.png">
+    <node name="page111" title="Page1" icon="Images\iconfinder_address-book_285679.png"/>
+    <node name="page112" title="Page2" icon="Images\iconfinder_address-book_285679.png"/>
+    <node name="page113" title="Page3" icon="Images\iconfinder_address-book_285679.png"/>
+  </node>
+  <node name="chapter12" title="Chapter2" icon="Images\iconfinder_address-book-alt_299047.png">
+    <node name="page121" title="Page1" icon="Images\iconfinder_address-book_285679.png"/>
+    <node name="page122" title="Page2" icon="Images\iconfinder_address-book_285679.png"/>
+    <node name="page123" title="Page3" icon="Images\iconfinder_address-book_285679.png"/>
+  </node>
+  <node name="chapter13" title="Chapter3" icon="Images\iconfinder_address-book-alt_299047.png">
+    <node name="page131" title="Page1" icon="Images\iconfinder_address-book_285679.png"/>
+    <node name="page132" title="Page2" icon="Images\iconfinder_address-book_285679.png"/>
+    <node name="page133" title="Page3" icon="Images\iconfinder_address-book_285679.png"/>
+  </node>
+</node>

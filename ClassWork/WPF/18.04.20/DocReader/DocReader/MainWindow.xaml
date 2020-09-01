@@ -1,0 +1,62 @@
+﻿<Window x:Class="DocReader.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DocReader"
+        mc:Ignorable="d"
+        Title="Приложение для чтения технической документации" Height="550" Width="900" Icon="Images/iconfinder_note_1296370.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <ToolBar Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Height="30">
+            <Button x:Name="UserGuide" Click="UserGuide_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images\icontexto-user-web20-magnolia_8544.png"/>
+                    <TextBlock Text=" UserGuide"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="AdminGuide" Click="AdminGuide_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images\icontexto-user-web20-facebook_6942.png"/>
+                    <TextBlock Text=" AdminGuide"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="DevGuide" Click="DevGuide_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images\icontexto-user-web20-favorites_4706.png"/>
+                    <TextBlock Text=" DevGuide"/>
+                </StackPanel>
+            </Button>
+        </ToolBar>
+        <GroupBox Header="Панель навигации" Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" Width="220">
+            <TreeView x:Name="Context" SelectedItemChanged="Context_SelectedItemChanged">
+                <TreeView.ItemTemplate>
+                    <HierarchicalDataTemplate ItemsSource="{Binding XPath=node}">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="{Binding XPath=@icon}" Height="24"/>
+                            <TextBlock Text="{Binding XPath=@title}"/>
+                        </StackPanel>
+                    </HierarchicalDataTemplate>
+                </TreeView.ItemTemplate>
+            </TreeView>
+        </GroupBox>
+        <GroupBox Header="Панель просмотра" Grid.Row="1" Grid.Column="1">
+            <FlowDocumentReader x:Name="Reader">
+
+            </FlowDocumentReader>
+        </GroupBox>
+        <StatusBar Grid.Row="2" Grid.Column="1">
+            <StatusBarItem>
+                <TextBlock Text="Page: 0"/>
+            </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>

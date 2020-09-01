@@ -1,0 +1,14 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\bin\Debug\Database1.mdf
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\bin\Debug\Database1_log.ldf
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\bin\Debug\Organizer.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\bin\Debug\Organizer.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\bin\Debug\Organizer.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.AddCategoryForm.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.DelCategoryForm.resources

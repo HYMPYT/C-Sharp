@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\linq\linq\bin\Debug\linq.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\linq\linq\bin\Debug\linq.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\linq\linq\bin\Debug\linq.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\linq\linq\obj\Debug\linq.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\linq\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\linq\linq\obj\Debug\linq.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\linq\linq\obj\Debug\linq.pdb

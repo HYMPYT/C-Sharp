@@ -1,0 +1,10 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Converter\Converter\bin\Debug\Converter.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Converter\Converter\bin\Debug\Converter.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Converter\Converter\bin\Debug\Converter.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Converter\Converter\obj\Debug\Converter.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Converter\Converter\obj\Debug\Converter.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Converter\Converter\obj\Debug\Converter.pdb

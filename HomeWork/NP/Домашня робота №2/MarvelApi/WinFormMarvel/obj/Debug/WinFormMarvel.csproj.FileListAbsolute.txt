@@ -1,0 +1,15 @@
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\bin\Debug\WinFormMarvel.exe.config
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\bin\Debug\WinFormMarvel.exe
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\bin\Debug\WinFormMarvel.pdb
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\bin\Debug\MyBestMarvelLib.dll
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\bin\Debug\MyBestMarvelLib.pdb
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\obj\Debug\WinFormMarvel.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\obj\Debug\WinFormMarvel.Form1.resources
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\obj\Debug\WinFormMarvel.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\obj\Debug\WinFormMarvel.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\obj\Debug\WinFormMarvel.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\obj\Debug\WinFormMarvel.csproj.CopyComplete
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\obj\Debug\WinFormMarvel.exe
+C:\Users\Evgeniy\Desktop\NP\Домашня робота №2\MarvelApi\WinFormMarvel\obj\Debug\WinFormMarvel.pdb

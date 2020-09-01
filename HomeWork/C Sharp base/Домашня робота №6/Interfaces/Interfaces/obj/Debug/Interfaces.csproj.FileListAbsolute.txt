@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №6\Interfaces\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №6\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №6\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №6\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №6\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №6\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\Домашня робота №6\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

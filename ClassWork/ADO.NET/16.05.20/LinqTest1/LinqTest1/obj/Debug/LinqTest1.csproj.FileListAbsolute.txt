@@ -1,0 +1,14 @@
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\LINQ_Demo\LinqTest1\LinqTest1\bin\Debug\LinqTest1.exe.config
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\LINQ_Demo\LinqTest1\LinqTest1\bin\Debug\LinqTest1.exe
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\LINQ_Demo\LinqTest1\LinqTest1\bin\Debug\LinqTest1.pdb
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\LINQ_Demo\LinqTest1\LinqTest1\obj\Debug\LinqTest1.csprojAssemblyReference.cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\LINQ_Demo\LinqTest1\LinqTest1\obj\Debug\LinqTest1.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\LINQ_Demo\LinqTest1\LinqTest1\obj\Debug\LinqTest1.exe
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\LINQ_Demo\LinqTest1\LinqTest1\obj\Debug\LinqTest1.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LinqTest1\LinqTest1\bin\Debug\LinqTest1.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LinqTest1\LinqTest1\bin\Debug\LinqTest1.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LinqTest1\LinqTest1\bin\Debug\LinqTest1.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LinqTest1\LinqTest1\obj\Debug\LinqTest1.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LinqTest1\LinqTest1\obj\Debug\LinqTest1.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LinqTest1\LinqTest1\obj\Debug\LinqTest1.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LinqTest1\LinqTest1\obj\Debug\LinqTest1.pdb

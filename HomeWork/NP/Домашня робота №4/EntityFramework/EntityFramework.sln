@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{1E90D386-5A27-4650-A8E4-FB3A64EF6693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookAuthorGUI", "BookAuthorGUI\BookAuthorGUI.csproj", "{0FF071F6-C6D0-431F-BEE1-A8DA07FB7866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E90D386-5A27-4650-A8E4-FB3A64EF6693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E90D386-5A27-4650-A8E4-FB3A64EF6693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E90D386-5A27-4650-A8E4-FB3A64EF6693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E90D386-5A27-4650-A8E4-FB3A64EF6693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF071F6-C6D0-431F-BEE1-A8DA07FB7866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF071F6-C6D0-431F-BEE1-A8DA07FB7866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF071F6-C6D0-431F-BEE1-A8DA07FB7866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF071F6-C6D0-431F-BEE1-A8DA07FB7866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CA3CCD5-0F6C-4AB6-AACF-C739B867296C}
+	EndGlobalSection
+EndGlobal

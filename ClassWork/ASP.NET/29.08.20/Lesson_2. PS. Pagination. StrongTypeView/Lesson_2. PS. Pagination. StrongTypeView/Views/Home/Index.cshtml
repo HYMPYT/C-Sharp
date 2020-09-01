@@ -1,0 +1,51 @@
+﻿@using Lesson_2.PS.Pagination.StrongTypeView.Models
+@model IEnumerable<Student>
+
+@{
+    ViewBag.Title = "Index";
+    AjaxOptions options = new AjaxOptions
+    {
+        UpdateTargetId = "students"
+    };
+}
+
+
+<div style="margin-top: 50px;">
+    <div>
+        @ViewBag.QueryString
+    </div>
+    <div>
+        @ViewBag.Id
+    </div>
+</div>
+
+
+<div style="margin-top: 50px;">
+    @for (int i = 0; i < ViewBag.PagesCount; i++)
+    {
+        @*<a href="/Home/Index/@(i+1)" class="btn btn-success">@(i + 1)</a>*@
+        @*@Html.ActionLink((i+1).ToString(), "Index", "Home", new { id = i + 1}, new { @class="btn btn-success"})*@
+        @Ajax.ActionLink((i+1).ToString(),"Table","Home", new { id = i + 1}, options, new { @class = "btn btn-success" })
+    }
+</div>
+
+
+<div id="students">
+   @Html.Action("Table")
+
+</div>
+
+@*<table class="table">
+    <thead>
+        <tr><th>Name</th><th>Lastname</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.Lastname</td>
+            </tr>
+        }
+    </tbody>
+</table>*@

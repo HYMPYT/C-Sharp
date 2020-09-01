@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LINQ.DEMO1\LINQ.DEMO1\bin\Debug\LINQ.DEMO1.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LINQ.DEMO1\LINQ.DEMO1\bin\Debug\LINQ.DEMO1.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LINQ.DEMO1\LINQ.DEMO1\bin\Debug\LINQ.DEMO1.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LINQ.DEMO1\LINQ.DEMO1\obj\Debug\LINQ.DEMO1.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LINQ.DEMO1\LINQ.DEMO1\obj\Debug\LINQ.DEMO1.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LINQ.DEMO1\LINQ.DEMO1\obj\Debug\LINQ.DEMO1.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\16.05.20\LINQ.DEMO1\LINQ.DEMO1\obj\Debug\LINQ.DEMO1.pdb

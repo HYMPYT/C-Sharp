@@ -1,0 +1,14 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\bin\Debug\Wpf.Triggers.DataTrigger.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\bin\Debug\Wpf.Triggers.DataTrigger.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\bin\Debug\Wpf.Triggers.DataTrigger.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\obj\Debug\Wpf.Triggers.DataTrigger.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\obj\Debug\Wpf.Triggers.DataTrigger_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\obj\Debug\Wpf.Triggers.DataTrigger.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\obj\Debug\Wpf.Triggers.DataTrigger.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\obj\Debug\Wpf.Triggers.DataTrigger.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\obj\Debug\Wpf.Triggers.DataTrigger.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\obj\Debug\Wpf.Triggers.DataTrigger.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex18-Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\Wpf.Triggers.DataTrigger\obj\Debug\Wpf.Triggers.DataTrigger.pdb

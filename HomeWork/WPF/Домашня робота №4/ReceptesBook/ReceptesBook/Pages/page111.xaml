@@ -1,0 +1,56 @@
+﻿<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+              xmlns:local="clr-namespace:ReceptesBook.Pages"
+              ColumnWidth="400" FontSize="14" FontFamily="Georgia">
+    <Paragraph FontSize="24" TextAlignment="Center" FontWeight="Bold">
+        <Run Text="Борщ"/>
+    </Paragraph>
+    <Paragraph>
+        <Run Text="Продукти:"/>
+        <Floater Width="200" HorizontalAlignment="Right">
+            <BlockUIContainer>
+                <Image Source="../Images/Ukrainian11.jpg"/>
+            </BlockUIContainer>
+        </Floater>
+    </Paragraph>
+    <List MarkerStyle="Box">
+        <ListItem>
+            <Paragraph>Телятина - 500 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Картопля- 500 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Капуста - 500 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Буряк - 300 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Морква - 300 г</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Цибуля - 2 шт.</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Томат-паста - 2 ст. ложки</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Чернослив - 5 шт.</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Зелень петрушки - 1 пучок</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Сіль - 0,5-1 ст. ложка (на смак)</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Масло - 2 ст. ложки</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Вода - 2 л</Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>Сметана - на смак</Paragraph>
+        </ListItem>
+    </List>
+</FlowDocument>

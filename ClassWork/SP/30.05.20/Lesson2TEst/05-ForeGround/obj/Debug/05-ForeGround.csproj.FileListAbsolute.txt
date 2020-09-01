@@ -1,0 +1,7 @@
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\05-ForeGround\bin\Debug\05-ForeGround.exe.config
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\05-ForeGround\bin\Debug\05-ForeGround.exe
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\05-ForeGround\bin\Debug\05-ForeGround.pdb
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\05-ForeGround\obj\Debug\05-ForeGround.csprojAssemblyReference.cache
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\05-ForeGround\obj\Debug\05-ForeGround.csproj.CoreCompileInputs.cache
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\05-ForeGround\obj\Debug\05-ForeGround.exe
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\05-ForeGround\obj\Debug\05-ForeGround.pdb

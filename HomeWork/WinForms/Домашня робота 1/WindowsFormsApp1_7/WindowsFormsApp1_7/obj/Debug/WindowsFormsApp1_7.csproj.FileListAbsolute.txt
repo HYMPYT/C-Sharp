@@ -1,0 +1,10 @@
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_7\WindowsFormsApp1_7\bin\Debug\WindowsFormsApp1_7.exe.config
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_7\WindowsFormsApp1_7\bin\Debug\WindowsFormsApp1_7.exe
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_7\WindowsFormsApp1_7\bin\Debug\WindowsFormsApp1_7.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_7\WindowsFormsApp1_7\obj\Debug\WindowsFormsApp1_7.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_7\WindowsFormsApp1_7\obj\Debug\WindowsFormsApp1_7.Form1.resources
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_7\WindowsFormsApp1_7\obj\Debug\WindowsFormsApp1_7.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_7\WindowsFormsApp1_7\obj\Debug\WindowsFormsApp1_7.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_7\WindowsFormsApp1_7\obj\Debug\WindowsFormsApp1_7.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_7\WindowsFormsApp1_7\obj\Debug\WindowsFormsApp1_7.exe
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_7\WindowsFormsApp1_7\obj\Debug\WindowsFormsApp1_7.pdb

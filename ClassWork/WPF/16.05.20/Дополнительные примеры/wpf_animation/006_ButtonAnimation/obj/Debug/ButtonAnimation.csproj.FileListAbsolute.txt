@@ -1,0 +1,36 @@
+D:\Projekts\9PA7\WPF\ButtonAnimation\ButtonAnimation\bin\Debug\ButtonAnimation.exe
+D:\Projekts\9PA7\WPF\ButtonAnimation\ButtonAnimation\bin\Debug\ButtonAnimation.pdb
+D:\Projekts\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projekts\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\Window1.baml
+D:\Projekts\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\Window1.g.cs
+D:\Projekts\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\App.g.cs
+D:\Projekts\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation_MarkupCompile.cache
+D:\Projekts\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.g.resources
+D:\Projekts\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.Properties.Resources.resources
+D:\Projekts\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.csproj.GenerateResource.Cache
+D:\Projekts\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.exe
+D:\Projekts\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.pdb
+D:\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.exe
+D:\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.pdb
+D:\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\bin\Debug\ButtonAnimation.exe
+D:\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\bin\Debug\ButtonAnimation.pdb
+D:\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\Window1.baml
+D:\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\Window1.g.cs
+D:\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\App.g.cs
+D:\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation_MarkupCompile.cache
+D:\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.g.resources
+D:\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.Properties.Resources.resources
+D:\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.csproj.GenerateResource.Cache
+W:\Old variant\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.exe
+W:\Old variant\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.pdb
+W:\Old variant\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\bin\Debug\ButtonAnimation.exe
+W:\Old variant\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\bin\Debug\ButtonAnimation.pdb
+W:\Old variant\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.csprojResolveAssemblyReference.cache
+W:\Old variant\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\Window1.baml
+W:\Old variant\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\Window1.g.cs
+W:\Old variant\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\App.g.cs
+W:\Old variant\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation_MarkupCompile.cache
+W:\Old variant\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.g.resources
+W:\Old variant\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.Properties.Resources.resources
+W:\Old variant\Projects\IT Step\9PA7\WPF\ButtonAnimation\ButtonAnimation\obj\Debug\ButtonAnimation.csproj.GenerateResource.Cache

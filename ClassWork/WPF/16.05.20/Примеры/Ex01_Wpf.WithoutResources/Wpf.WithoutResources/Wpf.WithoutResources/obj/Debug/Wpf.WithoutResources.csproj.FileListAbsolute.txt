@@ -1,0 +1,28 @@
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\bin\Debug\Wpf.WithoutResources.exe.config
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\bin\Debug\Wpf.WithoutResources.exe
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\bin\Debug\Wpf.WithoutResources.pdb
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.csprojAssemblyReference.cache
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\MainWindow.baml
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\MainWindow.g.cs
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\App.g.cs
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources_MarkupCompile.cache
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.g.resources
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.Properties.Resources.resources
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.csproj.GenerateResource.cache
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.csproj.CoreCompileInputs.cache
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.exe
+E:\Temp\Подготовки\Полустац\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\bin\Debug\Wpf.WithoutResources.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\bin\Debug\Wpf.WithoutResources.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\bin\Debug\Wpf.WithoutResources.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex01_Wpf.WithoutResources\Wpf.WithoutResources\Wpf.WithoutResources\obj\Debug\Wpf.WithoutResources.pdb

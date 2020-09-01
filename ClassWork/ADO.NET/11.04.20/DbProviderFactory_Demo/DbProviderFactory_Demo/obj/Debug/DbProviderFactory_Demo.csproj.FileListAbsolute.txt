@@ -1,0 +1,9 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\11.04.20\DbProviderFactory_Demo\DbProviderFactory_Demo\bin\Debug\Database1.mdf
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\11.04.20\DbProviderFactory_Demo\DbProviderFactory_Demo\bin\Debug\Database1_log.ldf
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\11.04.20\DbProviderFactory_Demo\DbProviderFactory_Demo\bin\Debug\DbProviderFactory_Demo.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\11.04.20\DbProviderFactory_Demo\DbProviderFactory_Demo\bin\Debug\DbProviderFactory_Demo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\11.04.20\DbProviderFactory_Demo\DbProviderFactory_Demo\bin\Debug\DbProviderFactory_Demo.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\11.04.20\DbProviderFactory_Demo\DbProviderFactory_Demo\obj\Debug\DbProviderFactory_Demo.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\11.04.20\DbProviderFactory_Demo\DbProviderFactory_Demo\obj\Debug\DbProviderFactory_Demo.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\11.04.20\DbProviderFactory_Demo\DbProviderFactory_Demo\obj\Debug\DbProviderFactory_Demo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\11.04.20\DbProviderFactory_Demo\DbProviderFactory_Demo\obj\Debug\DbProviderFactory_Demo.pdb

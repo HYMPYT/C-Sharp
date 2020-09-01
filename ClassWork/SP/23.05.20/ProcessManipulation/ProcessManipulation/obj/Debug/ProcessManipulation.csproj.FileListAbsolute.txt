@@ -1,0 +1,16 @@
+C:\Users\Vladimir and Olga\Downloads\SP-Demo\Sources_01\ProcessManipulation\ProcessManipulation\bin\Debug\ProcessManipulation.exe
+C:\Users\Vladimir and Olga\Downloads\SP-Demo\Sources_01\ProcessManipulation\ProcessManipulation\bin\Debug\ProcessManipulation.pdb
+C:\Users\Vladimir and Olga\Downloads\SP-Demo\Sources_01\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.csprojAssemblyReference.cache
+C:\Users\Vladimir and Olga\Downloads\SP-Demo\Sources_01\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.MainWindow.resources
+C:\Users\Vladimir and Olga\Downloads\SP-Demo\Sources_01\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.csproj.GenerateResource.cache
+C:\Users\Vladimir and Olga\Downloads\SP-Demo\Sources_01\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir and Olga\Downloads\SP-Demo\Sources_01\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.exe
+C:\Users\Vladimir and Olga\Downloads\SP-Demo\Sources_01\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ProcessManipulation\bin\Debug\ProcessManipulation.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ProcessManipulation\bin\Debug\ProcessManipulation.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.MainWindow.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.pdb

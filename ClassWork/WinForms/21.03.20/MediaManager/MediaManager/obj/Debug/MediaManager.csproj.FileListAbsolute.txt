@@ -1,0 +1,15 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\bin\Debug\MediaManager.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\bin\Debug\MediaManager.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\bin\Debug\MediaManager.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\bin\Debug\Interop.WMPLib.dll
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\bin\Debug\AxInterop.WMPLib.dll
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\obj\Debug\MediaManager.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\obj\Debug\Interop.WMPLib.dll
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\obj\Debug\AxInterop.WMPLib.dll
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\obj\Debug\MediaManager.csproj.ResolveComReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\obj\Debug\MediaManager.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\obj\Debug\MediaManager.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\obj\Debug\MediaManager.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\obj\Debug\MediaManager.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\obj\Debug\MediaManager.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\21.03.20\MediaManager\MediaManager\obj\Debug\MediaManager.pdb

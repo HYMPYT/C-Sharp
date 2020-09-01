@@ -1,0 +1,14 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\bin\Debug\Wpf.Triggers.PropertyTrigger.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\bin\Debug\Wpf.Triggers.PropertyTrigger.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\bin\Debug\Wpf.Triggers.PropertyTrigger.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\obj\Debug\Wpf.Triggers.PropertyTrigger.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\obj\Debug\Wpf.Triggers.PropertyTrigger_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\obj\Debug\Wpf.Triggers.PropertyTrigger.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\obj\Debug\Wpf.Triggers.PropertyTrigger.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\obj\Debug\Wpf.Triggers.PropertyTrigger.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\obj\Debug\Wpf.Triggers.PropertyTrigger.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\obj\Debug\Wpf.Triggers.PropertyTrigger.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex14-Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\Wpf.Triggers.PropertyTrigger\obj\Debug\Wpf.Triggers.PropertyTrigger.pdb

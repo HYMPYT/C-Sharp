@@ -1,0 +1,6 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\19.10.19\Array\Array\bin\Debug\Array.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\19.10.19\Array\Array\bin\Debug\Array.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\19.10.19\Array\Array\bin\Debug\Array.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\19.10.19\Array\Array\obj\Debug\Масив.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\19.10.19\Array\Array\obj\Debug\Array.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\19.10.19\Array\Array\obj\Debug\Array.pdb

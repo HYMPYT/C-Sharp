@@ -1,0 +1,14 @@
+W:\Trash\wpf_animation\003_RepeatAnim\obj\Debug\RepeatAnim.exe
+W:\Trash\wpf_animation\003_RepeatAnim\obj\Debug\RepeatAnim.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\003_RepeatAnim\bin\Debug\RepeatAnim.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\003_RepeatAnim\bin\Debug\RepeatAnim.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\003_RepeatAnim\obj\Debug\Window1.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\003_RepeatAnim\obj\Debug\Window1.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\003_RepeatAnim\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\003_RepeatAnim\obj\Debug\RepeatAnim_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\003_RepeatAnim\obj\Debug\RepeatAnim.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\003_RepeatAnim\obj\Debug\RepeatAnim.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\003_RepeatAnim\obj\Debug\004_RepeatAnim.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\003_RepeatAnim\obj\Debug\004_RepeatAnim.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\003_RepeatAnim\obj\Debug\RepeatAnim.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\003_RepeatAnim\obj\Debug\RepeatAnim.pdb

@@ -1,0 +1,10 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\29.02.20\GuideEditor\GuideEditor\bin\Debug\GuideEditor.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\29.02.20\GuideEditor\GuideEditor\bin\Debug\GuideEditor.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\29.02.20\GuideEditor\GuideEditor\bin\Debug\GuideEditor.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\29.02.20\GuideEditor\GuideEditor\obj\Debug\GuideEditor.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\29.02.20\GuideEditor\GuideEditor\obj\Debug\GuideEditor.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\29.02.20\GuideEditor\GuideEditor\obj\Debug\GuideEditor.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\29.02.20\GuideEditor\GuideEditor\obj\Debug\GuideEditor.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\29.02.20\GuideEditor\GuideEditor\obj\Debug\GuideEditor.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\29.02.20\GuideEditor\GuideEditor\obj\Debug\GuideEditor.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\29.02.20\GuideEditor\GuideEditor\obj\Debug\GuideEditor.pdb

@@ -1,0 +1,10 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Statistic1\Statistic1\bin\Debug\Statistic1.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Statistic1\Statistic1\bin\Debug\Statistic1.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Statistic1\Statistic1\bin\Debug\Statistic1.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Statistic1\Statistic1\obj\Debug\Statistic1.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Statistic1\Statistic1\obj\Debug\Statistic1.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Statistic1\Statistic1\obj\Debug\Statistic1.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Statistic1\Statistic1\obj\Debug\Statistic1.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Statistic1\Statistic1\obj\Debug\Statistic1.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Statistic1\Statistic1\obj\Debug\Statistic1.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\08.02.20\Statistic1\Statistic1\obj\Debug\Statistic1.pdb

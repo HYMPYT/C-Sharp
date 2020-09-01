@@ -1,0 +1,15 @@
+W:\Trash\wpf_animation\004_AnimationSpeed\obj\Debug\AnimationSpeed.exe
+W:\Trash\wpf_animation\004_AnimationSpeed\obj\Debug\AnimationSpeed.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\004_AnimationSpeed\bin\Debug\AnimationSpeed.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\004_AnimationSpeed\bin\Debug\AnimationSpeed.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\004_AnimationSpeed\obj\Debug\005_AnimationSpeed.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\004_AnimationSpeed\obj\Debug\Window1.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\004_AnimationSpeed\obj\Debug\Window1.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\004_AnimationSpeed\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\004_AnimationSpeed\obj\Debug\AnimationSpeed_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\004_AnimationSpeed\obj\Debug\AnimationSpeed.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\004_AnimationSpeed\obj\Debug\AnimationSpeed.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\004_AnimationSpeed\obj\Debug\005_AnimationSpeed.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\004_AnimationSpeed\obj\Debug\005_AnimationSpeed.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\004_AnimationSpeed\obj\Debug\AnimationSpeed.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\004_AnimationSpeed\obj\Debug\AnimationSpeed.pdb

@@ -1,0 +1,15 @@
+W:\Trash\wpf_animation\005_EventsAnim\obj\Debug\EventsAnim.exe
+W:\Trash\wpf_animation\005_EventsAnim\obj\Debug\EventsAnim.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\005_EventsAnim\bin\Debug\EventsAnim.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\005_EventsAnim\bin\Debug\EventsAnim.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\005_EventsAnim\obj\Debug\006_EventsAnim.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\005_EventsAnim\obj\Debug\Window1.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\005_EventsAnim\obj\Debug\Window1.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\005_EventsAnim\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\005_EventsAnim\obj\Debug\EventsAnim_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\005_EventsAnim\obj\Debug\EventsAnim.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\005_EventsAnim\obj\Debug\EventsAnim.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\005_EventsAnim\obj\Debug\006_EventsAnim.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\005_EventsAnim\obj\Debug\006_EventsAnim.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\005_EventsAnim\obj\Debug\EventsAnim.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\005_EventsAnim\obj\Debug\EventsAnim.pdb

@@ -1,0 +1,7 @@
+C:\Users\Evgeniy\source\repos\Garbege_collector\Garbege_collector\bin\Debug\Garbege_collector.exe.config
+C:\Users\Evgeniy\source\repos\Garbege_collector\Garbege_collector\bin\Debug\Garbege_collector.exe
+C:\Users\Evgeniy\source\repos\Garbege_collector\Garbege_collector\bin\Debug\Garbege_collector.pdb
+C:\Users\Evgeniy\source\repos\Garbege_collector\Garbege_collector\obj\Debug\Garbege_collector.csprojAssemblyReference.cache
+C:\Users\Evgeniy\source\repos\Garbege_collector\Garbege_collector\obj\Debug\Garbege_collector.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\source\repos\Garbege_collector\Garbege_collector\obj\Debug\Garbege_collector.exe
+C:\Users\Evgeniy\source\repos\Garbege_collector\Garbege_collector\obj\Debug\Garbege_collector.pdb

@@ -1,0 +1,9 @@
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_2\WindowsFormsApp1_2\bin\Debug\WindowsFormsApp1_2.exe.config
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_2\WindowsFormsApp1_2\bin\Debug\WindowsFormsApp1_2.exe
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_2\WindowsFormsApp1_2\bin\Debug\WindowsFormsApp1_2.pdb
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_2\WindowsFormsApp1_2\obj\Debug\WindowsFormsApp1_2.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_2\WindowsFormsApp1_2\obj\Debug\WindowsFormsApp1_2.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_2\WindowsFormsApp1_2\obj\Debug\WindowsFormsApp1_2.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_2\WindowsFormsApp1_2\obj\Debug\WindowsFormsApp1_2.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_2\WindowsFormsApp1_2\obj\Debug\WindowsFormsApp1_2.exe
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_2\WindowsFormsApp1_2\obj\Debug\WindowsFormsApp1_2.pdb

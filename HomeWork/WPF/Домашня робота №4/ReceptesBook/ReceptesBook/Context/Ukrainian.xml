@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<node name="doc1" title="Українська кухня" icon="Images/doc.png">
+  <node name="chapter11" title="Перші страви" icon="Images/First.png">
+    <node name="page111" title="Борщ" icon="Images/page.png"/>
+  </node>
+  <node name="chapter12" title="Другі страви" icon="Images/Second.png">
+    <node name="page121" title="Деруни з сметаною" icon="Images/page.png"/>
+  </node>
+  <node name="chapter13" title="Салати" icon="Images/Salads.png">
+    <node name="page131" title="Квашена капуста" icon="Images/page.png"/>
+  </node>
+</node>

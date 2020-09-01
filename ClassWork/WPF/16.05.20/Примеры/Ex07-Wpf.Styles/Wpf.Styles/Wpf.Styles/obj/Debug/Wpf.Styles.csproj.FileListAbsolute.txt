@@ -1,0 +1,14 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\bin\Debug\Wpf.Styles.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\bin\Debug\Wpf.Styles.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\bin\Debug\Wpf.Styles.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\obj\Debug\Wpf.Styles.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\obj\Debug\Wpf.Styles_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\obj\Debug\Wpf.Styles.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\obj\Debug\Wpf.Styles.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\obj\Debug\Wpf.Styles.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\obj\Debug\Wpf.Styles.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\obj\Debug\Wpf.Styles.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex07-Wpf.Styles\Wpf.Styles\Wpf.Styles\obj\Debug\Wpf.Styles.pdb

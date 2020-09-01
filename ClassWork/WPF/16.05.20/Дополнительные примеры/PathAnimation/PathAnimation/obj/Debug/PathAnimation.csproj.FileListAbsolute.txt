@@ -1,0 +1,14 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\bin\Debug\PathAnimation.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\bin\Debug\PathAnimation.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\bin\Debug\PathAnimation.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\obj\Debug\PathAnimation_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\obj\Debug\PathAnimation_MarkupCompile.lref
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\obj\Debug\PathAnimation.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\obj\Debug\PathAnimation.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\obj\Debug\PathAnimation.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\obj\Debug\PathAnimation.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\obj\Debug\PathAnimation.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Дополнительно\PathAnimation\PathAnimation\obj\Debug\PathAnimation.pdb

@@ -1,0 +1,7 @@
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\04-ThreadAbort\bin\Debug\04-ThreadAbort.exe.config
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\04-ThreadAbort\bin\Debug\04-ThreadAbort.exe
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\04-ThreadAbort\bin\Debug\04-ThreadAbort.pdb
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\04-ThreadAbort\obj\Debug\04-ThreadAbort.csproj.CoreCompileInputs.cache
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\04-ThreadAbort\obj\Debug\04-ThreadAbort.exe
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\04-ThreadAbort\obj\Debug\04-ThreadAbort.pdb
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\04-ThreadAbort\obj\Debug\04-ThreadAbort.csprojAssemblyReference.cache

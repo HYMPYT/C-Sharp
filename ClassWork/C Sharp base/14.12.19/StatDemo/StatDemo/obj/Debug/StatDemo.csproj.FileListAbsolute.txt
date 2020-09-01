@@ -1,0 +1,6 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\StatDemo\StatDemo\bin\Debug\StatDemo.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\StatDemo\StatDemo\bin\Debug\StatDemo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\StatDemo\StatDemo\bin\Debug\StatDemo.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\StatDemo\StatDemo\obj\Debug\StatDemo.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\StatDemo\StatDemo\obj\Debug\StatDemo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\StatDemo\StatDemo\obj\Debug\StatDemo.pdb

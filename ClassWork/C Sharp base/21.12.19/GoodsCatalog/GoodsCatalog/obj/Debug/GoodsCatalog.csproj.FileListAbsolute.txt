@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\GoodsCatalog\GoodsCatalog\bin\Debug\GoodsCatalog.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\GoodsCatalog\GoodsCatalog\bin\Debug\GoodsCatalog.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\GoodsCatalog\GoodsCatalog\bin\Debug\GoodsCatalog.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.pdb

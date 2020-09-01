@@ -1,0 +1,14 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\bin\Debug\Wpf.Resources.StaticProblem.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\bin\Debug\Wpf.Resources.StaticProblem.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\bin\Debug\Wpf.Resources.StaticProblem.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\obj\Debug\Wpf.Resources.StaticProblem.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\obj\Debug\Wpf.Resources.StaticProblem_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\obj\Debug\Wpf.Resources.StaticProblem.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\obj\Debug\Wpf.Resources.StaticProblem.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\obj\Debug\Wpf.Resources.StaticProblem.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\obj\Debug\Wpf.Resources.StaticProblem.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\obj\Debug\Wpf.Resources.StaticProblem.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex04-Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\Wpf.Resources.StaticProblem\obj\Debug\Wpf.Resources.StaticProblem.pdb

@@ -1,0 +1,26 @@
+W:\Trash\wpf_animation\006_ButtonAnimation\obj\Debug\ButtonAnimation.exe
+W:\Trash\wpf_animation\006_ButtonAnimation\obj\Debug\ButtonAnimation.pdb
+Y:\stas\WPF\wpf_animation\006_ButtonAnimation\obj\Debug\ButtonAnimation.exe
+Y:\stas\WPF\wpf_animation\006_ButtonAnimation\obj\Debug\ButtonAnimation.pdb
+Y:\stas\WPF\wpf_animation\006_ButtonAnimation\bin\Debug\ButtonAnimation.exe
+Y:\stas\WPF\wpf_animation\006_ButtonAnimation\bin\Debug\ButtonAnimation.pdb
+Y:\stas\WPF\wpf_animation\006_ButtonAnimation\obj\Debug\Window1.baml
+Y:\stas\WPF\wpf_animation\006_ButtonAnimation\obj\Debug\Window1.g.cs
+Y:\stas\WPF\wpf_animation\006_ButtonAnimation\obj\Debug\App.g.cs
+Y:\stas\WPF\wpf_animation\006_ButtonAnimation\obj\Debug\ButtonAnimation_MarkupCompile.cache
+Y:\stas\WPF\wpf_animation\006_ButtonAnimation\obj\Debug\ButtonAnimation.g.resources
+Y:\stas\WPF\wpf_animation\006_ButtonAnimation\obj\Debug\ButtonAnimation.Properties.Resources.resources
+Y:\stas\WPF\wpf_animation\006_ButtonAnimation\obj\Debug\003_ButtonAnimation.csproj.GenerateResource.Cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\006_ButtonAnimation\bin\Debug\ButtonAnimation.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\006_ButtonAnimation\bin\Debug\ButtonAnimation.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\006_ButtonAnimation\obj\Debug\003_ButtonAnimation.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\006_ButtonAnimation\obj\Debug\Window1.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\006_ButtonAnimation\obj\Debug\Window1.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\006_ButtonAnimation\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\006_ButtonAnimation\obj\Debug\ButtonAnimation_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\006_ButtonAnimation\obj\Debug\ButtonAnimation.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\006_ButtonAnimation\obj\Debug\ButtonAnimation.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\006_ButtonAnimation\obj\Debug\003_ButtonAnimation.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\006_ButtonAnimation\obj\Debug\003_ButtonAnimation.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\006_ButtonAnimation\obj\Debug\ButtonAnimation.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\006_ButtonAnimation\obj\Debug\ButtonAnimation.pdb

@@ -1,0 +1,7 @@
+c:\Users\student\documents\visual studio 2015\Projects\Plugins\ReversePlugin\obj\Debug\ReversePlugin.csprojResolveAssemblyReference.cache
+c:\Users\student\documents\visual studio 2015\Projects\Plugins\ReversePlugin\bin\Debug\ReversePlugin.dll
+c:\Users\student\documents\visual studio 2015\Projects\Plugins\ReversePlugin\bin\Debug\ReversePlugin.pdb
+c:\Users\student\documents\visual studio 2015\Projects\Plugins\ReversePlugin\bin\Debug\Interface.dll
+c:\Users\student\documents\visual studio 2015\Projects\Plugins\ReversePlugin\bin\Debug\Interface.pdb
+c:\Users\student\documents\visual studio 2015\Projects\Plugins\ReversePlugin\obj\Debug\ReversePlugin.dll
+c:\Users\student\documents\visual studio 2015\Projects\Plugins\ReversePlugin\obj\Debug\ReversePlugin.pdb

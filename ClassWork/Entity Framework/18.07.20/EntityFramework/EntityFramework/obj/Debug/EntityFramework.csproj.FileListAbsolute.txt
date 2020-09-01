@@ -1,0 +1,15 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\bin\Debug\DAL.dll
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\bin\Debug\DAL.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\bin\Debug\DAL.dll.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\Entity Framework\18.07.20\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb

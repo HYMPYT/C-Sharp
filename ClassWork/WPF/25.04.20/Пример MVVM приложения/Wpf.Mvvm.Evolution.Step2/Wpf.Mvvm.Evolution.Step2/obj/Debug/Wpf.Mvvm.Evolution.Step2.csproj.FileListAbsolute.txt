@@ -1,0 +1,38 @@
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\Wpf.Mvvm.Evolution.Step2.exe.config
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\Wpf.Mvvm.Evolution.Step2.exe
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\Wpf.Mvvm.Evolution.Step2.pdb
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.csprojAssemblyReference.cache
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Views\MainView.baml
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Views\MainView.g.cs
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\App.g.cs
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2_MarkupCompile.cache
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.g.resources
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.Properties.Resources.resources
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.csproj.GenerateResource.cache
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.csproj.CopyComplete
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.exe
+C:\Users\Vladimir and Olga\Downloads\Lesson4-WPF\Examples\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\Wpf.Mvvm.Evolution.Step2.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\Wpf.Mvvm.Evolution.Step2.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\Wpf.Mvvm.Evolution.Step2.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\System.Windows.Interactivity.dll
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\bin\Debug\System.Windows.Interactivity.xml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Views\MainView.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Views\MainView.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.csproj.CopyComplete
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\25.04.2020\Пример MVVM приложения\Wpf.Mvvm.Evolution.Step2\Wpf.Mvvm.Evolution.Step2\obj\Debug\Wpf.Mvvm.Evolution.Step2.pdb

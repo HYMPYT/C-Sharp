@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\19.10.19\Перечесления\Перечесления\bin\Debug\Перечесления.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\19.10.19\Перечесления\Перечесления\bin\Debug\Перечесления.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\19.10.19\Перечесления\Перечесления\bin\Debug\Перечесления.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\19.10.19\Перечесления\Перечесления\obj\Debug\Перечесления.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\19.10.19\Перечесления\Перечесления\obj\Debug\Перечесления.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\19.10.19\Перечесления\Перечесления\obj\Debug\Перечесления.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\19.10.19\Перечесления\Перечесления\obj\Debug\Перечесления.csprojAssemblyReference.cache

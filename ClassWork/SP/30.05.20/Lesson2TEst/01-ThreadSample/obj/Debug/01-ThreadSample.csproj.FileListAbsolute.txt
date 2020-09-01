@@ -1,0 +1,14 @@
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\01-ThreadSample\bin\Debug\01-ThreadSample.exe.config
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\01-ThreadSample\bin\Debug\01-ThreadSample.exe
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\01-ThreadSample\bin\Debug\01-ThreadSample.pdb
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\01-ThreadSample\obj\Debug\01-ThreadSample.csprojAssemblyReference.cache
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\01-ThreadSample\obj\Debug\01-ThreadSample.csproj.CoreCompileInputs.cache
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\01-ThreadSample\obj\Debug\01-ThreadSample.exe
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\01-ThreadSample\obj\Debug\01-ThreadSample.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\01-ThreadSample\bin\Debug\01-ThreadSample.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\01-ThreadSample\bin\Debug\01-ThreadSample.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\01-ThreadSample\bin\Debug\01-ThreadSample.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\01-ThreadSample\obj\Debug\01-ThreadSample.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\01-ThreadSample\obj\Debug\01-ThreadSample.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\01-ThreadSample\obj\Debug\01-ThreadSample.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\01-ThreadSample\obj\Debug\01-ThreadSample.pdb

@@ -1,0 +1,14 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\bin\Debug\Wpf.Triggers.MultiPropertyTrigger.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\bin\Debug\Wpf.Triggers.MultiPropertyTrigger.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\bin\Debug\Wpf.Triggers.MultiPropertyTrigger.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\obj\Debug\Wpf.Triggers.MultiPropertyTrigger.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\obj\Debug\Wpf.Triggers.MultiPropertyTrigger_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\obj\Debug\Wpf.Triggers.MultiPropertyTrigger.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\obj\Debug\Wpf.Triggers.MultiPropertyTrigger.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\obj\Debug\Wpf.Triggers.MultiPropertyTrigger.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\obj\Debug\Wpf.Triggers.MultiPropertyTrigger.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\obj\Debug\Wpf.Triggers.MultiPropertyTrigger.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex16-Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\Wpf.Triggers.MultiPropertyTrigger\obj\Debug\Wpf.Triggers.MultiPropertyTrigger.pdb

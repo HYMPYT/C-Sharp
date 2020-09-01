@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\События\События\bin\Debug\События.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\События\События\bin\Debug\События.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\События\События\bin\Debug\События.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\События\События\obj\Debug\События.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\События\События\obj\Debug\События.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\События\События\obj\Debug\События.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\07.12.19\События\События\obj\Debug\События.pdb

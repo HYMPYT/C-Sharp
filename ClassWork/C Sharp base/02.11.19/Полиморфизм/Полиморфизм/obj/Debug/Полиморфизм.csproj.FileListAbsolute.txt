@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Полиморфизм\Полиморфизм\bin\Debug\Полиморфизм.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Полиморфизм\Полиморфизм\bin\Debug\Полиморфизм.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Полиморфизм\Полиморфизм\bin\Debug\Полиморфизм.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Полиморфизм\Полиморфизм\obj\Debug\Полиморфизм.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Полиморфизм\Полиморфизм\obj\Debug\Полиморфизм.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Полиморфизм\Полиморфизм\obj\Debug\Полиморфизм.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\Полиморфизм\Полиморфизм\obj\Debug\Полиморфизм.pdb

@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Calculator calc = new Calculator();
+            int op;
+            double num1, num2;
+            for(; ; )
+            {
+                Console.Clear();
+                Console.WriteLine("---------------");
+                Console.WriteLine("| Калькулятор |");
+                Console.WriteLine("---------------");
+                Console.ReadLine();
+                Console.Clear();
+                Console.Write("Введите первое число -> ");
+                num1 = double.Parse(Console.ReadLine());
+                Console.Write("Введите второе число -> ");
+                num2 = double.Parse(Console.ReadLine());
+                Console.Clear();
+                Console.WriteLine("-----------------------------");
+                Console.WriteLine("|     Выберите операцию     |");
+                Console.WriteLine("-----------------------------");
+                Console.WriteLine("| 1. Сумма                  |");
+                Console.WriteLine("| 2. вычитание              |");
+                Console.WriteLine("| 3. Умножение              |");
+                Console.WriteLine("| 4. Деление                |");
+                Console.WriteLine("| 5. Взятие числа по модулю |");
+                Console.WriteLine("| 6. Закончить работу       |");
+                Console.WriteLine("-----------------------------");
+                op = int.Parse(Console.ReadLine());
+
+            }
+        }
+    }
+}

@@ -1,0 +1,6 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process3\Process3\bin\Debug\Process3.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process3\Process3\bin\Debug\Process3.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process3\Process3\bin\Debug\Process3.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process3\Process3\obj\Debug\Process3.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process3\Process3\obj\Debug\Process3.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process3\Process3\obj\Debug\Process3.pdb

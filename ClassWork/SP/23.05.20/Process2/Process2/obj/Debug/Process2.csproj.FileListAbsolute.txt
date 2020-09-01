@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process2\Process2\bin\Debug\Process2.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process2\Process2\bin\Debug\Process2.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process2\Process2\bin\Debug\Process2.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process2\Process2\obj\Debug\Process2.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process2\Process2\obj\Debug\Process2.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process2\Process2\obj\Debug\Process2.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process2\Process2\obj\Debug\Process2.pdb

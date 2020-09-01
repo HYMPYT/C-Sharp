@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\HR_Department\HR_Department\bin\Debug\HR_Department.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\HR_Department\HR_Department\bin\Debug\HR_Department.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\HR_Department\HR_Department\bin\Debug\HR_Department.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\HR_Department\HR_Department\obj\Debug\HR_Department.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\HR_Department\HR_Department\obj\Debug\HR_Department.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\HR_Department\HR_Department\obj\Debug\HR_Department.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\14.12.19\HR_Department\HR_Department\obj\Debug\HR_Department.pdb

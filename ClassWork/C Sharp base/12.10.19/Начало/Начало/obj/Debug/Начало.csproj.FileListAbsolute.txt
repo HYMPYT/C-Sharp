@@ -1,0 +1,7 @@
+C:\Users\Evgeniy\source\repos\Начало\Начало\bin\Debug\Начало.exe.config
+C:\Users\Evgeniy\source\repos\Начало\Начало\bin\Debug\Начало.exe
+C:\Users\Evgeniy\source\repos\Начало\Начало\bin\Debug\Начало.pdb
+C:\Users\Evgeniy\source\repos\Начало\Начало\obj\Debug\Начало.csprojAssemblyReference.cache
+C:\Users\Evgeniy\source\repos\Начало\Начало\obj\Debug\Начало.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\source\repos\Начало\Начало\obj\Debug\Начало.exe
+C:\Users\Evgeniy\source\repos\Начало\Начало\obj\Debug\Начало.pdb

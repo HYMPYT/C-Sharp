@@ -1,0 +1,39 @@
+W:\Trash\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.exe
+W:\Trash\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.pdb
+Y:\stas\WPF\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.exe
+Y:\stas\WPF\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.pdb
+Y:\stas\WPF\wpf_animation\002_WindowAnim\bin\Debug\WindowAnim.exe
+Y:\stas\WPF\wpf_animation\002_WindowAnim\bin\Debug\WindowAnim.pdb
+Y:\stas\WPF\wpf_animation\002_WindowAnim\obj\Debug\Window1.baml
+Y:\stas\WPF\wpf_animation\002_WindowAnim\obj\Debug\Window1.g.cs
+Y:\stas\WPF\wpf_animation\002_WindowAnim\obj\Debug\App.g.cs
+Y:\stas\WPF\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim_MarkupCompile.cache
+Y:\stas\WPF\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.g.resources
+Y:\stas\WPF\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.Properties.Resources.resources
+Y:\stas\WPF\wpf_animation\002_WindowAnim\obj\Debug\002_WindowAnim.csproj.GenerateResource.Cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\002_WindowAnim\bin\Debug\WindowAnim.exe
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\002_WindowAnim\bin\Debug\WindowAnim.pdb
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\002_WindowAnim\obj\Debug\002_WindowAnim.csprojAssemblyReference.cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\002_WindowAnim\obj\Debug\Window1.baml
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\002_WindowAnim\obj\Debug\Window1.g.cs
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\002_WindowAnim\obj\Debug\App.g.cs
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim_MarkupCompile.cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.g.resources
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.Properties.Resources.resources
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\002_WindowAnim\obj\Debug\002_WindowAnim.csproj.GenerateResource.cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\002_WindowAnim\obj\Debug\002_WindowAnim.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.exe
+C:\Users\Vladimir and Olga\Downloads\PS-Demo\WPF_Demo\Collection-1\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\002_WindowAnim\bin\Debug\WindowAnim.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\002_WindowAnim\bin\Debug\WindowAnim.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\002_WindowAnim\obj\Debug\002_WindowAnim.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\002_WindowAnim\obj\Debug\Window1.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\002_WindowAnim\obj\Debug\Window1.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\002_WindowAnim\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\002_WindowAnim\obj\Debug\002_WindowAnim.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\002_WindowAnim\obj\Debug\002_WindowAnim.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\wpf_animation\002_WindowAnim\obj\Debug\WindowAnim.pdb

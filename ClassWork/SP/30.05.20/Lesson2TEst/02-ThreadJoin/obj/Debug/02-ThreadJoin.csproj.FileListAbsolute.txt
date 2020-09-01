@@ -1,0 +1,7 @@
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\02-ThreadJoin\bin\Debug\02-ThreadJoin.exe.config
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\02-ThreadJoin\bin\Debug\02-ThreadJoin.exe
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\02-ThreadJoin\bin\Debug\02-ThreadJoin.pdb
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\02-ThreadJoin\obj\Debug\02-ThreadJoin.csproj.CoreCompileInputs.cache
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\02-ThreadJoin\obj\Debug\02-ThreadJoin.exe
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\02-ThreadJoin\obj\Debug\02-ThreadJoin.pdb
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\02-ThreadJoin\obj\Debug\02-ThreadJoin.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model\CardsDB.mdf
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model\CardsDB_log.ldf
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Evgeniy\Desktop\Домашня робота ADO.NET\Домашня робота №2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

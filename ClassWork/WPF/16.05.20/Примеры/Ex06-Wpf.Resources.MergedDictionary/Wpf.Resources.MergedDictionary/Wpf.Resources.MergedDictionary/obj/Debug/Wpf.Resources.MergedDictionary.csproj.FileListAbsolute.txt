@@ -1,0 +1,16 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\bin\Debug\Wpf.Resources.MergedDictionary.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\bin\Debug\Wpf.Resources.MergedDictionary.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\bin\Debug\Wpf.Resources.MergedDictionary.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\obj\Debug\Wpf.Resources.MergedDictionary.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\obj\Debug\Brushes.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\obj\Debug\Colors.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\obj\Debug\Wpf.Resources.MergedDictionary_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\obj\Debug\Wpf.Resources.MergedDictionary.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\obj\Debug\Wpf.Resources.MergedDictionary.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\obj\Debug\Wpf.Resources.MergedDictionary.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\obj\Debug\Wpf.Resources.MergedDictionary.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\obj\Debug\Wpf.Resources.MergedDictionary.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex06-Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\Wpf.Resources.MergedDictionary\obj\Debug\Wpf.Resources.MergedDictionary.pdb

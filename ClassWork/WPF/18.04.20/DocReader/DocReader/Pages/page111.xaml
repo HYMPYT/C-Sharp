@@ -1,0 +1,103 @@
+﻿<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+              xmlns:local="clr-namespace:DocReader.Pages"
+              ColumnWidth="400" FontSize="14" FontFamily="Georgia" IsOptimalParagraphEnabled="True">
+    <Paragraph TextAlignment="Center">
+        <Run Text="Пингвины" FontSize="18" Foreground="Purple"/>
+    </Paragraph>
+    <Paragraph>
+        В Антарктиде льдины землю скрыли,
+        <LineBreak/>
+        Льдины в Антарктиде замела пурга,
+        <LineBreak/>
+        Здесь одни пингвины прежде жили,
+        <LineBreak/>
+        Ревниво охраняя свои снега.
+        <LineBreak/>
+        Ревниво охраняя свои снега.
+        <LineBreak/>
+        <LineBreak/>
+
+        Как-то раз пингвины в полном сборе
+        <LineBreak/>
+        К морю на рыбалку побрели гурьбой,
+        <LineBreak/>
+        Странную картину видят в море:
+        <LineBreak/>
+        Огромный чёрный айсберг дымит трубой!
+        <LineBreak/>
+        Огромный чёрный айсберг дымит трубой!
+        <LineBreak/>
+        <LineBreak/>
+        Струсили пингвины - что же будет?
+        <LineBreak/>
+        И откуда ветер к ним пригнал гостей?
+        <LineBreak/>
+        Видят, как на льдину сходят люди,
+        <LineBreak/>
+        Впервые повстречали они людей.
+        <LineBreak/>
+        Впервые повстречали они людей.
+        <LineBreak/>
+        <LineBreak/>
+        Люди их спугнули песней звонкой,
+        <LineBreak/>
+        Тишины нарушив многолетний плен,
+        <LineBreak/>
+        Небо затянули сетью тонкой,
+        <LineBreak/>
+        Развесив паутину своих антенн.
+        <LineBreak/>
+        Развесив паутину своих антенн.
+        <LineBreak/>
+        <LineBreak/>
+
+        Но теперь в пингвинах нету страха,
+        <LineBreak/>
+        Радио послушать и они хотят,
+        <LineBreak/>
+        И шеренгой чинно в чёрных фраках
+        <LineBreak/>
+        Часами у посёлка они стоят.
+        <LineBreak/>
+        Часами у посёлка они стоят.
+        <LineBreak/>
+        <LineBreak/>
+
+        Ходят строем длинным, выгнув спины,
+        <LineBreak/>
+        Заняты гимнастикою по утрам.
+        <LineBreak/>
+        А потом пингвины чистят льдину,
+        <LineBreak/>
+        Танцуя вальс старинный по вечерам.
+        <LineBreak/>
+        Танцуя вальс старинный по вечерам.
+        <LineBreak/>
+        <LineBreak/>
+
+        Всё на свете знает эта стая,
+        <LineBreak/>
+        Ширятся их знания и кругозор,
+        <LineBreak/>
+        Джаз пингвины знают, Баха знают,
+        <LineBreak/>
+        Стихи пингвины знают и знают спорт.
+        <LineBreak/>
+        Стихи пингвины знают и знают спорт.
+        <LineBreak/>
+        <LineBreak/>
+
+        И с людьми пингвины ходят рядом,
+        <LineBreak/>
+        Слушают усердно каждый день эфир.
+        <LineBreak/>
+        И теперь пингвины людям рады,
+        <LineBreak/>
+        Ведь люди для пингвинов открыли мир!
+        <LineBreak/>
+        Ведь люди для пингвинов открыли мир!
+        <LineBreak/>
+        Ведь люди для пингвинов открыли мир!
+        <LineBreak/>
+    </Paragraph>
+</FlowDocument>

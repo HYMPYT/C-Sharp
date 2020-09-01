@@ -1,0 +1,15 @@
+﻿
+<table class="table">
+    <thead>
+        <tr><th>Name</th><th>Lastname</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.Lastname</td>
+            </tr>
+        }
+    </tbody>
+</table>

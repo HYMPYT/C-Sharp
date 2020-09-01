@@ -1,0 +1,14 @@
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\07-InterLocked\bin\Debug\07-InterLocked.exe.config
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\07-InterLocked\bin\Debug\07-InterLocked.exe
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\07-InterLocked\bin\Debug\07-InterLocked.pdb
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\07-InterLocked\obj\Debug\07-InterLocked.csproj.CoreCompileInputs.cache
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\07-InterLocked\obj\Debug\07-InterLocked.exe
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\07-InterLocked\obj\Debug\07-InterLocked.pdb
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\07-InterLocked\obj\Debug\07-InterLocked.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\07-InterLocked\bin\Debug\07-InterLocked.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\07-InterLocked\bin\Debug\07-InterLocked.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\07-InterLocked\bin\Debug\07-InterLocked.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\07-InterLocked\obj\Debug\07-InterLocked.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\07-InterLocked\obj\Debug\07-InterLocked.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\07-InterLocked\obj\Debug\07-InterLocked.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson2TEst\07-InterLocked\obj\Debug\07-InterLocked.pdb

@@ -1,0 +1,48 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\bin\Debug\Database1.mdf
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\bin\Debug\Database1_log.ldf
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\bin\Debug\Organizer.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\bin\Debug\Organizer.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\bin\Debug\Organizer.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.AddCategoryForm.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WinForms C#\14.03.20\Organizer\Organizer\obj\Debug\Organizer.DelCategoryForm.resources
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\bin\Debug\Database1.mdf
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\bin\Debug\Database1_log.ldf
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\bin\Debug\Organizer.exe.config
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\bin\Debug\Organizer.exe
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\bin\Debug\Organizer.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.AddCategoryForm.resources
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.AddTaskForm.resources
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.DelCategoryForm.resources
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.Form1.resources
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.exe
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.DelTaskForm.resources
+C:\Users\Evgeniy\Desktop\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.EditTaskForm.resources
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\bin\Debug\Database1.mdf
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\bin\Debug\Database1_log.ldf
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\bin\Debug\Organizer.exe.config
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\bin\Debug\Organizer.exe
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\bin\Debug\Organizer.pdb
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.AddCategoryForm.resources
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.AddTaskForm.resources
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.DelCategoryForm.resources
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.DelTaskForm.resources
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.EditTaskForm.resources
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.exe
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Домашня робота 5\Organizer\Organizer\obj\Debug\Organizer.pdb

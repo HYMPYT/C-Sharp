@@ -1,0 +1,10 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process1\Process1\bin\Debug\Process1.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process1\Process1\bin\Debug\Process1.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process1\Process1\bin\Debug\Process1.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process1\Process1\obj\Debug\Process1.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process1\Process1\obj\Debug\Process1.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process1\Process1\obj\Debug\Process1.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process1\Process1\obj\Debug\Process1.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process1\Process1\obj\Debug\Process1.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process1\Process1\obj\Debug\Process1.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\23.05.20\Process1\Process1\obj\Debug\Process1.pdb

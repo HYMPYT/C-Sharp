@@ -1,0 +1,11 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\RegExpDemo\RegExpDemo\bin\Debug\RegExpDemo.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\RegExpDemo\RegExpDemo\bin\Debug\RegExpDemo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\RegExpDemo\RegExpDemo\bin\Debug\RegExpDemo.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\RegExpDemo\RegExpDemo\obj\Debug\RegExpDemo.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\RegExpDemo\RegExpDemo\obj\Debug\RegExpDemo.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\RegExpDemo\RegExpDemo\obj\Debug\RegExpDemo.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\RegExpDemo\RegExpDemo\obj\Debug\RegExpDemo.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\RegExpDemo\RegExpDemo\obj\Debug\RegExpDemo.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\RegExpDemo\RegExpDemo\obj\Debug\RegExpDemo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\RegExpDemo\RegExpDemo\obj\Debug\RegExpDemo.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\21.12.19\RegExpDemo\RegExpDemo\obj\Debug\RegExpDemo.LoginWindow.resources

@@ -1,0 +1,10 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\Lesson-2\bin\Debug\Lesson-2.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\Lesson-2\bin\Debug\Lesson-2.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\Lesson-2\bin\Debug\Lesson-2.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\Lesson-2\obj\Debug\Lesson-2.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\Lesson-2\obj\Debug\Lesson_2.FormMain.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\Lesson-2\obj\Debug\Lesson_2.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\Lesson-2\obj\Debug\Lesson-2.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\Lesson-2\obj\Debug\Lesson-2.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\Lesson-2\obj\Debug\Lesson-2.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\Lesson-2\obj\Debug\Lesson-2.pdb

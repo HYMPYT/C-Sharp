@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\16.11.19\Интерфейсы 2\Интерфейсы 2\bin\Debug\Интерфейсы 2.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\16.11.19\Интерфейсы 2\Интерфейсы 2\bin\Debug\Интерфейсы 2.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\16.11.19\Интерфейсы 2\Интерфейсы 2\bin\Debug\Интерфейсы 2.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\16.11.19\Интерфейсы 2\Интерфейсы 2\obj\Debug\Интерфейсы 2.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\16.11.19\Интерфейсы 2\Интерфейсы 2\obj\Debug\Интерфейсы 2.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\16.11.19\Интерфейсы 2\Интерфейсы 2\obj\Debug\Интерфейсы 2.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\16.11.19\Интерфейсы 2\Интерфейсы 2\obj\Debug\Интерфейсы 2.pdb

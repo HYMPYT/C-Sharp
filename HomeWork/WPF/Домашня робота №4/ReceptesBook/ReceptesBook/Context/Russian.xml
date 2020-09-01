@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<node name="doc2" title="Російська кухня" icon="Images/doc.png">
+  <node name="chapter21" title="Перші страви" icon="Images/First.png">
+    <node name="page211" title="Окрошка" icon="Images/page.png"/>
+  </node>
+  <node name="chapter22" title="Другі страви" icon="Images/Second.png">
+    <node name="page221" title="Пельмені з сметаною" icon="Images/page.png"/>
+  </node>
+  <node name="chapter23" title="Салати" icon="Images/Salads.png">
+    <node name="page231" title="Вінегрет" icon="Images/page.png"/>
+  </node>
+</node>

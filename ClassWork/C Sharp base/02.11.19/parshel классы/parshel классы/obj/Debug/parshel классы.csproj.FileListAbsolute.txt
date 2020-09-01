@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\parshel классы\parshel классы\bin\Debug\parshel классы.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\parshel классы\parshel классы\bin\Debug\parshel классы.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\parshel классы\parshel классы\bin\Debug\parshel классы.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\parshel классы\parshel классы\obj\Debug\parshel классы.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\parshel классы\parshel классы\obj\Debug\parshel классы.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\parshel классы\parshel классы\obj\Debug\parshel классы.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\02.11.19\parshel классы\parshel классы\obj\Debug\parshel классы.pdb

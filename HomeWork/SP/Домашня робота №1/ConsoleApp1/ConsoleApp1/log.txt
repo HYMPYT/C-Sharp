@@ -1,0 +1,4 @@
+at 16.06.2020 14:52:46(thread-4) : Money=0 , Name= , Percent=0
+at 16.06.2020 14:52:46(thread-5) : Money=0 , Name= , Percent=3
+at 16.06.2020 14:52:46(thread-6) : Money=0 , Name=Unprivate bank , Percent=3
+at 16.06.2020 14:52:47(thread-7) : Money=2000 , Name=Unprivate bank , Percent=3

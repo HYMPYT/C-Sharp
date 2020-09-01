@@ -1,0 +1,56 @@
+﻿<Window x:Class="ReceptesBook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReceptesBook"
+        mc:Ignorable="d"
+        Title="Receptes Book" Height="450" Width="800" Icon="Images/ReceptesBook.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <ToolBar Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Height="30">
+            <Button x:Name="UkrainianCuisine" Click="UkrainianCuisine_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images/UkrainianFlag.png"/>
+                    <TextBlock Text=" Українська кухня"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="RussianCuisine" Click="RussianCuisine_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images/RussianFlag.png"/>
+                    <TextBlock Text=" Російська кухня"/>
+                </StackPanel>
+            </Button>
+        </ToolBar>
+        <GroupBox Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" 
+                  Header="Панель навігації" Width="220">
+            <TreeView x:Name="Context" SelectedItemChanged="Context_SelectedItemChanged">
+                <TreeView.ItemTemplate>
+                    <HierarchicalDataTemplate 
+                        ItemsSource="{Binding XPath=node}">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="{Binding XPath=@icon}" Height="24"/>
+                            <TextBlock Text="{Binding XPath=@title}"/>
+                        </StackPanel>
+                    </HierarchicalDataTemplate>
+                </TreeView.ItemTemplate>
+            </TreeView>
+        </GroupBox>
+        <GroupBox Grid.Row="1" Grid.Column="1" Header="Панель перегляду">
+            <FlowDocumentReader x:Name="Reader"></FlowDocumentReader>
+        </GroupBox>
+        <StatusBar Grid.Row="2" Grid.Column="1">
+            <StatusBarItem>
+                <TextBlock Text="Page: 0"/>
+            </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>

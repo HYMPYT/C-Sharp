@@ -1,0 +1,9 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\18.04.20\TransactionsDemo\TransactionsDemo\bin\Debug\Database1.mdf
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\18.04.20\TransactionsDemo\TransactionsDemo\bin\Debug\Database1_log.ldf
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\18.04.20\TransactionsDemo\TransactionsDemo\bin\Debug\TransactionsDemo.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\18.04.20\TransactionsDemo\TransactionsDemo\bin\Debug\TransactionsDemo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\18.04.20\TransactionsDemo\TransactionsDemo\bin\Debug\TransactionsDemo.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\18.04.20\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\18.04.20\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\18.04.20\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\ADO.NET C#\18.04.20\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.pdb

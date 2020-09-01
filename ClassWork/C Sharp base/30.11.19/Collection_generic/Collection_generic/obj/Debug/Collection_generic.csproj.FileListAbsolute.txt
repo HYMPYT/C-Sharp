@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\Collection_generic\Collection_generic\obj\Debug\Collection_generic.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\Collection_generic\Collection_generic\obj\Debug\Collection_generic.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\Collection_generic\Collection_generic\bin\Debug\Collection_generic.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\Collection_generic\Collection_generic\bin\Debug\Collection_generic.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\Collection_generic\Collection_generic\bin\Debug\Collection_generic.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\Collection_generic\Collection_generic\obj\Debug\Collection_generic.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\30.11.19\Collection_generic\Collection_generic\obj\Debug\Collection_generic.pdb

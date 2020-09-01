@@ -1,0 +1,16 @@
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\bin\Debug\AuthWindow.exe.config
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\bin\Debug\AuthWindow.exe
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\bin\Debug\AuthWindow.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\obj\Debug\AuthWindow.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\obj\Debug\App.g.cs
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\obj\Debug\AuthWindow_MarkupCompile.cache
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\obj\Debug\AuthWindow_MarkupCompile.lref
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\obj\Debug\MainWindow.baml
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\obj\Debug\Visuals.baml
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\obj\Debug\AuthWindow.g.resources
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\obj\Debug\AuthWindow.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\obj\Debug\AuthWindow.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\obj\Debug\AuthWindow.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\obj\Debug\AuthWindow.exe
+C:\Users\Evgeniy\Desktop\Домашня робота WPF\Домашня робота №6\AuthWindow\AuthWindow\obj\Debug\AuthWindow.pdb

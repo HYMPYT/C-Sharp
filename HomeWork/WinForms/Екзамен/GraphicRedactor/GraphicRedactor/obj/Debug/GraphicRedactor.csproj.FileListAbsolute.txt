@@ -1,0 +1,24 @@
+C:\Users\Evgeniy\Desktop\Екзамен\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe.config
+C:\Users\Evgeniy\Desktop\Екзамен\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe
+C:\Users\Evgeniy\Desktop\Екзамен\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.pdb
+C:\Users\Evgeniy\Desktop\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Form1.resources
+C:\Users\Evgeniy\Desktop\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.exe
+C:\Users\Evgeniy\Desktop\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.pdb
+C:\Users\Evgeniy\Desktop\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.ChangeSizeForm.resources
+C:\Users\Evgeniy\Desktop\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.QuestionForm.resources
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe.config
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.pdb
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.ChangeSizeForm.resources
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Form1.resources
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.QuestionForm.resources
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.exe
+D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.pdb

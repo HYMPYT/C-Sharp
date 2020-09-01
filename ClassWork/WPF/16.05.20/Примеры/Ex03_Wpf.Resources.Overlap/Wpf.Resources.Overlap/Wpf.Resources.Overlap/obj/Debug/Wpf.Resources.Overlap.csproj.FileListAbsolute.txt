@@ -1,0 +1,14 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\bin\Debug\Wpf.Resources.Overlap.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\bin\Debug\Wpf.Resources.Overlap.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\bin\Debug\Wpf.Resources.Overlap.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\obj\Debug\Wpf.Resources.Overlap.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\obj\Debug\MainWindow.baml
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\obj\Debug\MainWindow.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\obj\Debug\App.g.cs
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\obj\Debug\Wpf.Resources.Overlap_MarkupCompile.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\obj\Debug\Wpf.Resources.Overlap.g.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\obj\Debug\Wpf.Resources.Overlap.Properties.Resources.resources
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\obj\Debug\Wpf.Resources.Overlap.csproj.GenerateResource.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\obj\Debug\Wpf.Resources.Overlap.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\obj\Debug\Wpf.Resources.Overlap.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\WPF C#\16.05.20\Ex03_Wpf.Resources.Overlap\Wpf.Resources.Overlap\Wpf.Resources.Overlap\obj\Debug\Wpf.Resources.Overlap.pdb

@@ -1,0 +1,7 @@
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\02-CreateThread\bin\Debug\_02_CreateThread.exe.config
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\02-CreateThread\bin\Debug\_02_CreateThread.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\02-CreateThread\bin\Debug\_02_CreateThread.pdb
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\02-CreateThread\obj\Debug\02-CreateThread.csprojAssemblyReference.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\02-CreateThread\obj\Debug\02-CreateThread.csproj.CoreCompileInputs.cache
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\02-CreateThread\obj\Debug\_02_CreateThread.exe
+D:\Yevhen\Акадамія ШАГ\Class_work\C#\SP\30.05.20\Lesson-2\02-CreateThread\obj\Debug\_02_CreateThread.pdb

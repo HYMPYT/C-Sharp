@@ -1,0 +1,18 @@
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_1\WindowsFormsApp1_1\bin\Debug\WindowsFormsApp1_1.exe.config
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_1\WindowsFormsApp1_1\bin\Debug\WindowsFormsApp1_1.exe
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_1\WindowsFormsApp1_1\bin\Debug\WindowsFormsApp1_1.pdb
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_1\WindowsFormsApp1_1\obj\Debug\WindowsFormsApp1_1.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_1\WindowsFormsApp1_1\obj\Debug\WindowsFormsApp1_1.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_1\WindowsFormsApp1_1\obj\Debug\WindowsFormsApp1_1.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_1\WindowsFormsApp1_1\obj\Debug\WindowsFormsApp1_1.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_1\WindowsFormsApp1_1\obj\Debug\WindowsFormsApp1_1.exe
+C:\Users\Evgeniy\Desktop\WindowsFormsApp1_1\WindowsFormsApp1_1\obj\Debug\WindowsFormsApp1_1.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_1\WindowsFormsApp1_1\bin\Debug\WindowsFormsApp1_1.exe.config
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_1\WindowsFormsApp1_1\bin\Debug\WindowsFormsApp1_1.exe
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_1\WindowsFormsApp1_1\bin\Debug\WindowsFormsApp1_1.pdb
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_1\WindowsFormsApp1_1\obj\Debug\WindowsFormsApp1_1.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_1\WindowsFormsApp1_1\obj\Debug\WindowsFormsApp1_1.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_1\WindowsFormsApp1_1\obj\Debug\WindowsFormsApp1_1.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_1\WindowsFormsApp1_1\obj\Debug\WindowsFormsApp1_1.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_1\WindowsFormsApp1_1\obj\Debug\WindowsFormsApp1_1.exe
+C:\Users\Evgeniy\Desktop\Домашня робота 1\WindowsFormsApp1_1\WindowsFormsApp1_1\obj\Debug\WindowsFormsApp1_1.pdb

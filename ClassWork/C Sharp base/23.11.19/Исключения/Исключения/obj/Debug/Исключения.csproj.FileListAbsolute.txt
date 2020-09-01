@@ -1,0 +1,7 @@
+C:\Users\Evgeniy\source\repos\Исключения\Исключения\bin\Debug\Исключения.exe.config
+C:\Users\Evgeniy\source\repos\Исключения\Исключения\bin\Debug\Исключения.exe
+C:\Users\Evgeniy\source\repos\Исключения\Исключения\bin\Debug\Исключения.pdb
+C:\Users\Evgeniy\source\repos\Исключения\Исключения\obj\Debug\Исключения.csprojAssemblyReference.cache
+C:\Users\Evgeniy\source\repos\Исключения\Исключения\obj\Debug\Исключения.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\source\repos\Исключения\Исключения\obj\Debug\Исключения.exe
+C:\Users\Evgeniy\source\repos\Исключения\Исключения\obj\Debug\Исключения.pdb

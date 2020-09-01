@@ -1,0 +1,30 @@
+﻿<Window x:Class="TestDataTable.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestDataTable"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" MinHeight="30"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <TextBox x:Name="tbCommand" Grid.Column="0" KeyUp="tbCommand_KeyUp" ToolTip="With empty field will be raised selection for all tables."/>
+            <Button x:Name="btnExec" Content="Execute" Grid.Column="1" MaxHeight="30" Click="btnExec_Click" ToolTip="Press right mouse button to raise previous commands menu.">
+                <Button.ContextMenu >
+                    <ContextMenu x:Name="_cm"/>
+                </Button.ContextMenu>
+            </Button>
+        </Grid>
+        <GridSplitter Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Stretch" Height="4"/>
+        <TabControl Grid.Row="2" x:Name="tcQueries" KeyUp="tcQueries_KeyUp"/>
+    </Grid>
+</Window>

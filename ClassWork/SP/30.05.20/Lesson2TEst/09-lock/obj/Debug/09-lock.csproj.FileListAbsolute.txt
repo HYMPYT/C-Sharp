@@ -1,0 +1,7 @@
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\09-lock\bin\Debug\09-lock.exe.config
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\09-lock\bin\Debug\09-lock.exe
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\09-lock\bin\Debug\09-lock.pdb
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\09-lock\obj\Debug\09-lock.csproj.CoreCompileInputs.cache
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\09-lock\obj\Debug\09-lock.exe
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\09-lock\obj\Debug\09-lock.pdb
+C:\_SP\Lesson 2 MultyThreading\Lesson2TEst\09-lock\obj\Debug\09-lock.csprojAssemblyReference.cache
