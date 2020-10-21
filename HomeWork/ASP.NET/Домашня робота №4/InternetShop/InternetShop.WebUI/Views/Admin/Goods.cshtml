@@ -1,0 +1,35 @@
+﻿@using InternetShop.WebUI.Models
+@using InternetShop.Domain.Entities
+@model GoodsListViewModel
+@{
+    ViewBag.Title = "Goods";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 class="text-center">Goods</h2>
+
+@if (Model.PagingInfo.TotalPages > 1)
+{
+    <div class="my-2">
+        @for (int i = 0; i < Model.PagingInfo.TotalPages; i++)
+        {
+            @Ajax.ActionLink((i + 1).ToString(), "GoodSummary", new { category = Model?.CurrentCategory, manufacturer = Model?.CurrentManufacturer, page = i + 1 }, new AjaxOptions { UpdateTargetId = "goods" }, new { @class = "btn btn-info mx-2" })
+        }
+        @Ajax.ActionLink("Create New", "CreateGood", null, new AjaxOptions { UpdateTargetId = "goodModalDialog" }, new { @class = "btn btn-dark mx-2", data_toggle = "modal", data_target = "#goodModal" })
+    </div>
+}
+else
+{
+    <div class="my-2">
+        @Ajax.ActionLink("Create New", "CreateGood", null, new AjaxOptions { UpdateTargetId = "goodModalDialog" }, new { @class = "btn btn-dark mx-2", data_toggle = "modal", data_target = "#goodModal" })
+    </div>
+}
+
+<div class="modal fade" id="goodModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div id="goodModalDialog" class="modal-dialog" role="document">
+    </div>
+</div>
+
+<div id="goods" class="mx-auto">
+    @{Html.RenderPartial("GoodSummary", Model);}
+</div>

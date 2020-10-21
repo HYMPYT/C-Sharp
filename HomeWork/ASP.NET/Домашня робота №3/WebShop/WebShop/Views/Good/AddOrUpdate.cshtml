@@ -1,0 +1,32 @@
+﻿@model WebShop.Models.GoodEditModel
+@{
+    ViewBag.Title = "AddOrUpdate";
+}
+
+<h2>AddOrUpdate</h2>
+
+@using (Html.BeginForm("AddOrUpdate", "Good", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.Good.GoodId)
+    <div class="form-group">
+        @Html.LabelFor(m => m.Good.GoodName)
+        @Html.TextBoxFor(m => m.Good.GoodName, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Good.Price)
+        @Html.TextBoxFor(m => m.Good.Price, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Good.GoodCount)
+        @Html.TextBoxFor(m => m.Good.GoodCount, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Good.Manufacturer, "Manufacturer: ")
+        @Html.DropDownListFor(m => m.Good.ManufacturerId, new SelectList(Model.Manufacturers, nameof(Model.Good.Manufacturer.ManufacturerId), nameof(Model.Good.Manufacturer.ManufacturerName), Model.Good.ManufacturerId), new { @class = "from-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Good.Category, "Category: ")
+        @Html.DropDownListFor(m => m.Good.CategoryId, new SelectList(Model.Categories, nameof(Model.Good.Category.CategoryId), nameof(Model.Good.Category.CategoryName), Model.Good.CategoryId), new { @class = "from-control" })
+    </div>
+    <input type="submit" class="btn btn-success" value="Submit"/>
+}

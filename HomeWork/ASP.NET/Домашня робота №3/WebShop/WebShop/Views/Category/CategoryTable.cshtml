@@ -1,0 +1,22 @@
+﻿<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th>CategoryId</th>
+            <th>CategoryName</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <td>@category.CategoryId</td>
+                <td>@category.CategoryName</td>
+                <td>
+                    <a href="/Category/Delete/@category.CategoryId" class="btn btn-danger mx-2">Delete</a>
+                    <a href="/Category/AddOrUpdate/@category.CategoryId" class="btn btn-warning mx-2">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

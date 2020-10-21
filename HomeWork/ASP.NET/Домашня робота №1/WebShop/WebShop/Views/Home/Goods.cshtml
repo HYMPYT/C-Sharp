@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Goods";
+}
+
+<h2>Goods</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>GoodId</th>
+            <th>GoodName</th>
+            <th>ManufacturerId</th>
+            <th>CategoryId</th>
+            <th>Price</th>
+            <th>GoodCount</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var good in ViewBag.Goods)
+        {
+            <tr>
+                <td>@good.GoodId</td>
+                <td>@good.GoodName</td>
+                <td>@good.ManufacturerId</td>
+                <td>@good.CategoryId</td>
+                <td>@good.Price</td>
+                <td>@good.GoodCount</td>
+            </tr>
+        }
+    </tbody>
+</table>

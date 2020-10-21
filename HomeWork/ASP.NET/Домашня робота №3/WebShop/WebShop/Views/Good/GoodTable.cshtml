@@ -1,0 +1,27 @@
+﻿
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th>GoodId</th>
+            <th>GoodName</th>
+            <th>Price</th>
+            <th>GoodCount</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var good in Model)
+        {
+            <tr>
+                <td>@good.GoodId</td>
+                <td>@good.GoodName</td>
+                <td>@good.Price</td>
+                <td>@good.GoodCount</td>
+                <td>
+                    <a href="/Good/Delete/@good.GoodId" class="btn btn-danger mx-2">Delete</a>
+                    <a href="/Good/AddOrUpdate/@good.GoodId" class="btn btn-warning mx-2">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,22 @@
+﻿
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Count</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var good in Model)
+        {
+            <tr>
+                <td>@good.GoodId</td>
+                <td>@good.GoodName</td>
+                <td>@good.GoodCount</td>
+                <td>@good.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>

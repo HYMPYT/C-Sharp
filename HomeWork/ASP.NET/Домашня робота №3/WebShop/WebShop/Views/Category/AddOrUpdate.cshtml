@@ -1,0 +1,17 @@
+﻿@model DAL.Context.Category
+@{
+    ViewBag.Title = "AddOrUpdate";
+}
+
+<h2>AddOrUpdate</h2>
+
+@using (Html.BeginForm("AddOrUpdate", "Category", FormMethod.Post))
+{
+    @Html.HiddenFor(c => c.CategoryId)
+    <div class="form-group">
+        @Html.LabelFor(c => c.CategoryName)
+        @Html.TextBoxFor(c => c.CategoryName, new { @class = "form-control" })
+    </div>
+     
+    <input type="submit" class="btn btn-primary" value="Submit" />
+}

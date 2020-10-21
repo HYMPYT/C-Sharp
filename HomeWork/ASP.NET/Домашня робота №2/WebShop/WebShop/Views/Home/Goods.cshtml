@@ -1,0 +1,25 @@
+﻿@using WebShop.Models
+@model List<Good>
+@{
+    ViewBag.Title = "Goods";
+    AjaxOptions options = new AjaxOptions
+    {
+        UpdateTargetId = "goods"
+    };
+}
+
+<h2 class="text-center">Goods</h2>
+
+@if (ViewBag.PagesCount > 1)
+{
+    <div class="my-2">
+        @for (int i = 0; i < ViewBag.PagesCount; i++)
+        {
+            @Ajax.ActionLink((i + 1).ToString(), "GoodTable", "Home", new { id = i + 1 }, options, new { @class = "btn btn-info mx-1" })
+        }
+    </div>
+}
+
+<div id="goods">
+    @Html.Action("GoodTable")
+</div>
