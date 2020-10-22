@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\AP.BOL\bin\Debug\AP.BOL.dll
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\AP.BOL\bin\Debug\AP.BOL.pdb
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\AP.BOL\obj\Debug\AP.BOL.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\AP.BOL\obj\Debug\AP.BOL.dll
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\AP.BOL\obj\Debug\AP.BOL.pdb

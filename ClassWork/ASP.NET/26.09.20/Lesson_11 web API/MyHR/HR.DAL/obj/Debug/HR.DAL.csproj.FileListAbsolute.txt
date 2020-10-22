@@ -1,0 +1,22 @@
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.DAL\bin\Debug\HR.DAL.dll.config
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.DAL\bin\Debug\HR.DAL.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.DAL\bin\Debug\HR.DAL.pdb
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.DAL\bin\Debug\EntityFramework.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.DAL\bin\Debug\EntityFramework.xml
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.DAL\obj\Debug\HR.DAL.csprojResolveAssemblyReference.cache
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.DAL\obj\Debug\HR.DAL.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.DAL\obj\Debug\HR.DAL.pdb
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.DAL\obj\Debug\HR.DAL.csprojResolveAssemblyReference.cache
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.DAL\obj\Debug\HR.DAL.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.DAL\obj\Debug\HR.DAL.pdb
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.DAL\bin\Debug\HR.DAL.dll.config
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.DAL\bin\Debug\HR.DAL.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.DAL\bin\Debug\HR.DAL.pdb
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.DAL\bin\Debug\AutoMapper.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.DAL\bin\Debug\EntityFramework.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.DAL\bin\Debug\AutoMapper.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.DAL\bin\Debug\EntityFramework.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.DAL\bin\Debug\EntityFramework.SqlServer.xml

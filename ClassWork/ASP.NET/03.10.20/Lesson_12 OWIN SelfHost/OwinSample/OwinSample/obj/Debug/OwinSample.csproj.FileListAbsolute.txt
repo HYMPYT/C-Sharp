@@ -1,0 +1,118 @@
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\roslyn\csc.exe
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\roslyn\System.Collections.Immutable.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\roslyn\vbc.exe
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\roslyn\VBCSCompiler.exe
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\roslyn\VBCSCompiler.exe.config
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\OwinSample.dll.config
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\OwinSample.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\OwinSample.pdb
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\Microsoft.Owin.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\Microsoft.Web.Infrastructure.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\Owin.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\System.Web.Helpers.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\System.Web.Mvc.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\System.Web.Razor.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\System.Web.Webpages.Deployment.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\System.Web.Webpages.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\System.Web.Webpages.Razor.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\Microsoft.Owin.xml
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\System.Web.Razor.xml
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\System.Web.Webpages.xml
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\System.Web.Webpages.Deployment.xml
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\System.Web.Webpages.Razor.xml
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\System.Web.Helpers.xml
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\bin\System.Web.Mvc.xml
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\obj\Debug\OwinSample.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\obj\Debug\OwinSample.dll
+c:\users\student\documents\visual studio 2015\Projects\OwinSample\OwinSample\obj\Debug\OwinSample.pdb
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\csc.exe
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\OwinSample.dll.config
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\OwinSample.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\OwinSample.pdb
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\Owin.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Webpages.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Webpages.Razor.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Webpages.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Webpages.Razor.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\obj\Debug\OwinSample.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\obj\Debug\OwinSample.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\obj\Debug\OwinSample.csproj.CopyComplete
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\obj\Debug\OwinSample.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\OwinSample\OwinSample\obj\Debug\OwinSample.pdb
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\csc.exe
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\OwinSample.dll.config
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\OwinSample.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\OwinSample.pdb
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\Owin.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Webpages.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Webpages.Razor.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Webpages.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Webpages.Razor.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\obj\Debug\OwinSample.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\obj\Debug\OwinSample.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\obj\Debug\OwinSample.csproj.CopyComplete
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\obj\Debug\OwinSample.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\OwinSample\OwinSample\obj\Debug\OwinSample.pdb

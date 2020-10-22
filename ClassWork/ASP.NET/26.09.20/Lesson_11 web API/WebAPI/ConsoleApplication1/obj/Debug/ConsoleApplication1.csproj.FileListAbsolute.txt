@@ -1,0 +1,8 @@
+D:\vs2017\asp.net season 2018\Lesson 23 web API\WebAPI\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\vs2017\asp.net season 2018\Lesson 23 web API\WebAPI\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\vs2017\asp.net season 2018\Lesson 23 web API\WebAPI\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\vs2017\asp.net season 2018\Lesson 23 web API\WebAPI\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\vs2017\asp.net season 2018\Lesson 23 web API\WebAPI\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\vs2017\asp.net season 2018\Lesson 23 web API\WebAPI\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\vs2017\asp.net season 2018\Lesson 23 web API\WebAPI\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\vs2017\asp.net season 2018\Lesson 23 web API\WebAPI\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

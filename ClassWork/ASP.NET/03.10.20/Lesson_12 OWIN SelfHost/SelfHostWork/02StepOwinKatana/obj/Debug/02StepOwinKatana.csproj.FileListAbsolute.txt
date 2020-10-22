@@ -1,0 +1,45 @@
+D:\vs2017\B15-p26 CP\SelfHostWork\02StepOwinKatana\bin\Debug\02StepOwinKatana.exe.config
+D:\vs2017\B15-p26 CP\SelfHostWork\02StepOwinKatana\bin\Debug\02StepOwinKatana.exe
+D:\vs2017\B15-p26 CP\SelfHostWork\02StepOwinKatana\bin\Debug\02StepOwinKatana.pdb
+D:\vs2017\B15-p26 CP\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.dll
+D:\vs2017\B15-p26 CP\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\vs2017\B15-p26 CP\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\vs2017\B15-p26 CP\SelfHostWork\02StepOwinKatana\bin\Debug\Owin.dll
+D:\vs2017\B15-p26 CP\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.xml
+D:\vs2017\B15-p26 CP\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+D:\vs2017\B15-p26 CP\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.Hosting.xml
+D:\vs2017\B15-p26 CP\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.exe
+D:\vs2017\B15-p26 CP\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.pdb
+C:\Users\student\Desktop\Lesson 25 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\02StepOwinKatana.exe.config
+C:\Users\student\Desktop\Lesson 25 OWIN SelfHost\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.exe
+C:\Users\student\Desktop\Lesson 25 OWIN SelfHost\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.pdb
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\02StepOwinKatana.exe.config
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\02StepOwinKatana.exe
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\02StepOwinKatana.pdb
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Owin.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.csproj.CopyComplete
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.exe
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.pdb
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\02StepOwinKatana.exe.config
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\02StepOwinKatana.exe
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\02StepOwinKatana.pdb
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Owin.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.csproj.CopyComplete
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.exe
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\SelfHostWork\02StepOwinKatana\obj\Debug\02StepOwinKatana.pdb

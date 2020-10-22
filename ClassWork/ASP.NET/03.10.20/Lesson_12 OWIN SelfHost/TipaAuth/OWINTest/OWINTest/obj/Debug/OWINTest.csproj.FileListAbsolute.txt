@@ -1,0 +1,118 @@
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\roslyn\csc.exe
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\roslyn\System.Collections.Immutable.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\roslyn\vbc.exe
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\roslyn\VBCSCompiler.exe
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\roslyn\VBCSCompiler.exe.config
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\OWINTest.dll.config
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\OWINTest.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\OWINTest.pdb
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\Microsoft.Owin.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\Owin.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\System.Web.Helpers.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\System.Web.Mvc.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\System.Web.Razor.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\System.Web.Webpages.Deployment.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\System.Web.Webpages.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\System.Web.Webpages.Razor.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\Microsoft.Owin.xml
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\System.Web.Razor.xml
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\System.Web.Webpages.xml
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\System.Web.Webpages.Deployment.xml
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\System.Web.Webpages.Razor.xml
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\System.Web.Helpers.xml
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\System.Web.Mvc.xml
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\obj\Debug\OWINTest.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\obj\Debug\OWINTest.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\obj\Debug\OWINTest.pdb
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\student\documents\visual studio 2015\Projects\OWINTest\OWINTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\csc.exe
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\OWINTest.dll.config
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\OWINTest.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\OWINTest.pdb
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Owin.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Webpages.Deployment.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Webpages.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Webpages.Razor.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Webpages.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Webpages.Deployment.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Webpages.Razor.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\obj\Debug\OWINTest.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\obj\Debug\OWINTest.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\obj\Debug\OWINTest.csproj.CopyComplete
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\obj\Debug\OWINTest.dll
+C:\Users\student\Desktop\Lesson 12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\obj\Debug\OWINTest.pdb
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\csc.exe
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\OWINTest.dll.config
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\OWINTest.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\OWINTest.pdb
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Owin.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Webpages.Deployment.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Webpages.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Webpages.Razor.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Webpages.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Webpages.Deployment.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Webpages.Razor.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\obj\Debug\OWINTest.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\obj\Debug\OWINTest.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\obj\Debug\OWINTest.csproj.CopyComplete
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\obj\Debug\OWINTest.dll
+C:\Users\student\Desktop\Lesson_12 OWIN SelfHost\TipaAuth\OWINTest\OWINTest\obj\Debug\OWINTest.pdb

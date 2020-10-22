@@ -1,0 +1,6 @@
+D:\Projects\WebApiSample\ConsoleApiTest\obj\Debug\ConsoleApiTest.csproj.CoreCompileInputs.cache
+D:\Projects\WebApiSample\ConsoleApiTest\bin\Debug\ConsoleApiTest.exe.config
+D:\Projects\WebApiSample\ConsoleApiTest\bin\Debug\ConsoleApiTest.exe
+D:\Projects\WebApiSample\ConsoleApiTest\bin\Debug\ConsoleApiTest.pdb
+D:\Projects\WebApiSample\ConsoleApiTest\obj\Debug\ConsoleApiTest.exe
+D:\Projects\WebApiSample\ConsoleApiTest\obj\Debug\ConsoleApiTest.pdb

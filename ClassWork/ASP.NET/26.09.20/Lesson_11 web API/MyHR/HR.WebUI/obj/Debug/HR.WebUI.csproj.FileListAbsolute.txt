@@ -1,0 +1,160 @@
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\csc.exe
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\vbc.exe
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\HR.WebUI.dll.config
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\HR.WebUI.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\HR.WebUI.pdb
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\EntityFramework.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\EntityFramework.SqlServer.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\HR.DAL.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\System.Web.Helpers.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\System.Web.Mvc.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\System.Web.Razor.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\System.Web.Webpages.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\HR.DAL.pdb
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\EntityFramework.xml
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\EntityFramework.SqlServer.xml
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\System.Web.Razor.xml
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\System.Web.Webpages.xml
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\System.Web.Helpers.xml
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\System.Web.Mvc.xml
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\obj\Debug\HR.WebUI.csprojResolveAssemblyReference.cache
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\obj\Debug\HR.WebUI.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\obj\Debug\HR.WebUI.pdb
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\csc.exe.config
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\csc.rsp
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\csi.exe
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\csi.exe.config
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\csi.rsp
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.AppContext.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Console.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.IO.Compression.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.IO.Pipes.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Security.AccessControl.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Security.Claims.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Threading.Thread.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.ValueTuple.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Xml.XPath.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\vbc.exe.config
+D:\vs2017\asp.net season 2018\Lesson 13 Work Db HR\HR\HR.WebUI\bin\roslyn\vbc.rsp
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\HR.WebUI.dll.config
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\HR.WebUI.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\HR.WebUI.pdb
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\csc.exe
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\csc.exe.config
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\csc.rsp
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\csi.exe
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\csi.exe.config
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\csi.rsp
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.AppContext.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Console.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.IO.Compression.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.IO.Pipes.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Security.AccessControl.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Security.Claims.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Threading.Thread.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.ValueTuple.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Xml.XPath.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\vbc.exe
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\vbc.exe.config
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\vbc.rsp
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\EntityFramework.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\EntityFramework.SqlServer.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\HR.DAL.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Helpers.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Mvc.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Razor.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Webpages.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\HR.DAL.pdb
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\EntityFramework.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\EntityFramework.SqlServer.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Razor.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Webpages.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Helpers.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Mvc.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\obj\Debug\HR.WebUI.csprojResolveAssemblyReference.cache
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\obj\Debug\HR.WebUI.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\obj\Debug\HR.WebUI.pdb
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\Newtonsoft.Json.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Net.Http.Formatting.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Http.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Http.WebHost.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\Newtonsoft.Json.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Net.Http.Formatting.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Http.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\System.Web.Http.WebHost.xml
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\AutoMapper.dll
+D:\vs2017\asp.net season 2018\Lesson 24 web API\MyHR\HR.WebUI\bin\AutoMapper.xml

@@ -1,0 +1,150 @@
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\Lesson_9.2 Predicate filter.dll.config
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\Lesson_9.2 Predicate filter.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\Lesson_9.2 Predicate filter.pdb
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\csc.exe
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\csc.exe.config
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\csc.rsp
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\csi.exe
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\csi.exe.config
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\csi.rsp
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.AppContext.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Console.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.IO.Compression.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.IO.Pipes.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.AccessControl.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.Claims.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.ValueTuple.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\vbc.exe
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\vbc.exe.config
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\vbc.rsp
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\EntityFramework.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\EntityFramework.SqlServer.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Helpers.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Mvc.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Razor.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Webpages.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\EntityFramework.xml
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\EntityFramework.SqlServer.xml
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Razor.xml
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Webpages.xml
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Helpers.xml
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Mvc.xml
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\obj\Debug\Lesson_9.2 Predicate filter.csprojAssemblyReference.cache
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\obj\Debug\Lesson_9.2 Predicate filter.csproj.CoreCompileInputs.cache
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\obj\Debug\Lesson_9.2 Predicate filter.csproj.CopyComplete
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\obj\Debug\Lesson_9.2 Predicate filter.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\obj\Debug\Lesson_9.2 Predicate filter.pdb
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\LinqKit.dll
+D:\Projects\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\LinqKit.xml
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\Lesson_9.2 Predicate filter.dll.config
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\Lesson_9.2 Predicate filter.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\Lesson_9.2 Predicate filter.pdb
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\csc.exe
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\csc.exe.config
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\csc.rsp
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\csi.exe
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\csi.exe.config
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\csi.rsp
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.AppContext.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Console.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.IO.Compression.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.IO.Pipes.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.Claims.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.ValueTuple.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Xml.XPath.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\vbc.exe.config
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\vbc.rsp
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\EntityFramework.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\LinqKit.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Webpages.Deployment.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Webpages.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Webpages.Razor.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\EntityFramework.xml
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\LinqKit.xml
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Webpages.xml
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Webpages.Deployment.xml
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Webpages.Razor.xml
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\obj\Debug\Lesson_9.2 Predicate filter.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\obj\Debug\Lesson_9.2 Predicate filter.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\obj\Debug\Lesson_9.2 Predicate filter.csproj.CopyComplete
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\obj\Debug\Lesson_9.2 Predicate filter.dll
+C:\Users\student\Desktop\Lesson_9.2 Predicate filter\Lesson_9.2 Predicate filter\obj\Debug\Lesson_9.2 Predicate filter.pdb

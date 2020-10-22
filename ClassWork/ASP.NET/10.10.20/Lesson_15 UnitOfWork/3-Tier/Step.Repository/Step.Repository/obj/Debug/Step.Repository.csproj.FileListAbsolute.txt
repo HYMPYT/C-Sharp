@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+C:\Users\student\Desktop\Lesson_15 UnitOfWork\3-Tier\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb

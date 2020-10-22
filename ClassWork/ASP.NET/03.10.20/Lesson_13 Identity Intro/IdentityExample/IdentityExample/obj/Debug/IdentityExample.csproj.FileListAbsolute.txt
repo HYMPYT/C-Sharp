@@ -1,0 +1,204 @@
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\roslyn\csc.exe
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\roslyn\System.Collections.Immutable.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\roslyn\vbc.exe
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\roslyn\VBCSCompiler.exe
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\roslyn\VBCSCompiler.exe.config
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\IdentityExample.dll.config
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\IdentityExample.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\IdentityExample.pdb
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.Owin.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.Web.Infrastructure.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Newtonsoft.Json.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Owin.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\System.Web.Helpers.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\System.Web.Mvc.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\System.Web.Razor.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\System.Web.Webpages.Deployment.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\System.Web.Webpages.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\System.Web.Webpages.Razor.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.Owin.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\Newtonsoft.Json.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\System.Web.Razor.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\System.Web.Webpages.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\System.Web.Webpages.Deployment.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\System.Web.Webpages.Razor.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\System.Web.Helpers.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\bin\System.Web.Mvc.xml
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\obj\Debug\IdentityExample.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\obj\Debug\IdentityExample.dll
+c:\users\student\documents\visual studio 2015\Projects\IdentityExample\IdentityExample\obj\Debug\IdentityExample.pdb
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\csc.exe
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\System.Collections.Immutable.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\System.Reflection.Metadata.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\vbc.exe
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\VBCSCompiler.exe
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\VBCSCompiler.exe.config
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\IdentityExample.dll.config
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\IdentityExample.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\IdentityExample.pdb
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Core.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Owin.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Host.SystemWeb.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.Cookies.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.OAuth.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Web.Infrastructure.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Newtonsoft.Json.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Owin.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Helpers.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Mvc.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Razor.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.Deployment.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.Razor.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Core.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Owin.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Host.SystemWeb.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.Cookies.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.OAuth.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\Newtonsoft.Json.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Razor.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.Deployment.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.Razor.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Helpers.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Mvc.xml
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\obj\Debug\IdentityExample.csprojResolveAssemblyReference.cache
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\obj\Debug\IdentityExample.dll
+Y:\Группы\19п1_26\ASP.NET\MVC\Lesson 26 Identity Intro\IdentityExample\IdentityExample\obj\Debug\IdentityExample.pdb
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\csc.exe
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\IdentityExample.dll.config
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\IdentityExample.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\IdentityExample.pdb
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Owin.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.Razor.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.Razor.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\obj\Debug\IdentityExample.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\obj\Debug\IdentityExample.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\obj\Debug\IdentityExample.csproj.CopyComplete
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\obj\Debug\IdentityExample.dll
+C:\Users\student\Desktop\Lesson 13 Identity Intro\IdentityExample\IdentityExample\obj\Debug\IdentityExample.pdb
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\csc.exe
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\IdentityExample.dll.config
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\IdentityExample.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\IdentityExample.pdb
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Owin.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.Razor.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Webpages.Razor.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\obj\Debug\IdentityExample.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\obj\Debug\IdentityExample.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\obj\Debug\IdentityExample.csproj.CopyComplete
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\obj\Debug\IdentityExample.dll
+C:\Users\student\Desktop\Lesson_13 Identity Intro\IdentityExample\IdentityExample\obj\Debug\IdentityExample.pdb
