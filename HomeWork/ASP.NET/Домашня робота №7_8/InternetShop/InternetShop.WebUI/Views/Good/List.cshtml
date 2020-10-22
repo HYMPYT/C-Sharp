@@ -1,0 +1,22 @@
+﻿@using InternetShop.BLL.Models.UIModels
+@model GoodsListVM
+@{
+    ViewBag.Title = "Goods";
+    AjaxOptions options = new AjaxOptions
+    {
+        UpdateTargetId = "goods"
+    };
+}
+
+<h2 class="text-center">Goods</h2>
+
+<div class="my-2">
+    @for (int i = 0; i < Model.PagingInfo.TotalPages; i++)
+    {
+        @Ajax.ActionLink((i + 1).ToString(), "GoodSummary", "Good", new { category = Model.CurrentCategory, manufacturer = Model.CurrentManufacturer, page = i + 1 }, options, new { @class = "btn btn-info mx-2" })
+    }
+</div>
+
+<div id="goods" class="mx-auto">
+    @{Html.RenderPartial("GoodSummary", Model.Goods);}
+</div>

@@ -1,0 +1,75 @@
+﻿@model InternetShop.BLL.Models.UIModels.GoodVM
+
+@using (Ajax.BeginForm("EditGood", "Admin", new AjaxOptions() { UpdateTargetId = "goodModalDialog", HttpMethod = "Post" }, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title mx-auto" id="exampleModalLabel">Good edit</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <hr />
+        <div class="modal-body">
+            <form class="justify-content-center">
+                @Html.HiddenFor(model => model.GoodId)
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.GoodName, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.GoodName, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.GoodName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.UploadedPhotos, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <div class="custom-file">
+                            <input type="file" class="custom-file-input" id="inputFiles" name="UploadedPhotos" multiple>
+                            <label class="custom-file-label" for="inputFiles">Add photos</label>
+                        </div>
+                        @Html.ValidationMessageFor(model => model.UploadedPhotos, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SelectManufacturers, "Manufacturer", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(model => model.ManufacturerId, Model.SelectManufacturers, htmlAttributes: new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SelectCategories, "Category", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(model => model.CategoryId, Model.SelectCategories, htmlAttributes: new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.GoodPrice, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.GoodPrice, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.GoodPrice, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.GoodCount, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.GoodCount, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.GoodCount, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="modal-footer justify-content-center">
+            <div class="form-actions no-color">
+                <input type="submit" value="Save" class="btn btn-primary m-1" />
+                <button type="button" class="btn btn-secondary m-1" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,50 @@
+﻿@using InternetShop.BLL.Models.UIModels
+@model IEnumerable<GoodVM>
+<div class="table-responsive">
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Manufacturer</th>
+                <th>Category</th>
+                <th>Price</th>
+                <th>Count</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var g in Model)
+            {
+                <tr>
+                    <td>@g.GoodId</td>
+                    <td>@g.GoodName</td>
+                    @if (g.ManufacturerId > 0)
+                    {
+                        <td data-toggle="tooltip" data-placement="top" title="Id = @g.ManufacturerId">
+                            @Html.ActionLink(@g.ManufacturerName, "List", "Good", new { category = (string)null, manufacturer = g.ManufacturerName, page = 1 }, new { @class = "nav-item" })
+                        </td>
+
+                    }
+                    else
+                    {
+                        <td>Unknown Manufacturer</td>
+                    }
+                    @if (g.CategoryId > 0)
+                    {
+                        <td data-toggle="tooltip" data-placement="top" title="Id = @g.ManufacturerId">
+                            @Html.ActionLink(@g.CategoryName, "List", "Good", new { category = g.CategoryName, manufacturer = (string)null, page = 1 }, new { @class = "nav-link" })
+                        </td>
+
+                    }
+                    else
+                    {
+                        <td>Unknown category</td>
+                    }
+                    <td>@g.GoodPrice</td>
+                    <td>@g.GoodCount</td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+</div>
