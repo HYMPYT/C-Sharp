@@ -1,0 +1,9 @@
+C:\Users\Evgeniy\Desktop\ASP.NET\Домашня робота №9\CoreShop\CoreShop.Domain\bin\Debug\netstandard2.0\CoreShop.Domain.deps.json
+C:\Users\Evgeniy\Desktop\ASP.NET\Домашня робота №9\CoreShop\CoreShop.Domain\bin\Debug\netstandard2.0\CoreShop.Domain.dll
+C:\Users\Evgeniy\Desktop\ASP.NET\Домашня робота №9\CoreShop\CoreShop.Domain\bin\Debug\netstandard2.0\CoreShop.Domain.pdb
+C:\Users\Evgeniy\Desktop\ASP.NET\Домашня робота №9\CoreShop\CoreShop.Domain\obj\Debug\netstandard2.0\CoreShop.Domain.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\ASP.NET\Домашня робота №9\CoreShop\CoreShop.Domain\obj\Debug\netstandard2.0\CoreShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Evgeniy\Desktop\ASP.NET\Домашня робота №9\CoreShop\CoreShop.Domain\obj\Debug\netstandard2.0\CoreShop.Domain.AssemblyInfo.cs
+C:\Users\Evgeniy\Desktop\ASP.NET\Домашня робота №9\CoreShop\CoreShop.Domain\obj\Debug\netstandard2.0\CoreShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\ASP.NET\Домашня робота №9\CoreShop\CoreShop.Domain\obj\Debug\netstandard2.0\CoreShop.Domain.dll
+C:\Users\Evgeniy\Desktop\ASP.NET\Домашня робота №9\CoreShop\CoreShop.Domain\obj\Debug\netstandard2.0\CoreShop.Domain.pdb
