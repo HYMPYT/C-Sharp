@@ -22,3 +22,15 @@ D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\G
 D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.CoreCompileInputs.cache
 D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.exe
 D:\Yevhen\Акадамія ШАГ\Home_work_Academy\C#\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.pdb
+D:\GIT REPOSITORIES\C-Sharp\HomeWork\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe.config
+D:\GIT REPOSITORIES\C-Sharp\HomeWork\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe
+D:\GIT REPOSITORIES\C-Sharp\HomeWork\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.pdb
+D:\GIT REPOSITORIES\C-Sharp\HomeWork\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csprojAssemblyReference.cache
+D:\GIT REPOSITORIES\C-Sharp\HomeWork\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.ChangeSizeForm.resources
+D:\GIT REPOSITORIES\C-Sharp\HomeWork\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Form1.resources
+D:\GIT REPOSITORIES\C-Sharp\HomeWork\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Properties.Resources.resources
+D:\GIT REPOSITORIES\C-Sharp\HomeWork\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.QuestionForm.resources
+D:\GIT REPOSITORIES\C-Sharp\HomeWork\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.GenerateResource.cache
+D:\GIT REPOSITORIES\C-Sharp\HomeWork\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.CoreCompileInputs.cache
+D:\GIT REPOSITORIES\C-Sharp\HomeWork\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.exe
+D:\GIT REPOSITORIES\C-Sharp\HomeWork\WinForms\Екзамен\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.pdb
